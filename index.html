@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MCQ Exam — Nepal Health Service, Pharmacy Group (Fifth Level)</title>
+<meta name="description" content="Practice MCQ exam sets for the Nepal Health Service, Pharmacy Group, Fifth Level examination.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+</head>
+<body>
+
+<!-- ============ HOME: set picker ============ -->
+<section id="screen-home" class="screen">
+  <header class="site-head">
+    <h1>MCQ Practice Exam</h1>
+    <p class="sub">नेपाल स्वास्थ्य सेवा, भेषज (फार्मेसी) समूह, पाँचौँ तह</p>
+  </header>
+
+  <div id="loading" class="notice">Loading question sets…</div>
+  <div id="load-error" class="notice notice-error" hidden></div>
+
+  <div id="set-list" class="set-grid"></div>
+
+  <div class="home-opts card" hidden id="home-opts">
+    <h2>Exam options</h2>
+    <label class="switch">
+      <input type="checkbox" id="opt-shuffle-q" checked>
+      <span>Shuffle question order</span>
+    </label>
+    <label class="switch">
+      <input type="checkbox" id="opt-shuffle-o" checked>
+      <span>Shuffle answer options</span>
+    </label>
+    <label class="switch">
+      <input type="checkbox" id="opt-timer" checked>
+      <span>Show timer</span>
+    </label>
+  </div>
+
+  <footer class="site-foot">
+    <p>Answers are revealed only after you submit. Every attempt is reshuffled.</p>
+  </footer>
+</section>
+
+<!-- ============ EXAM ============ -->
+<section id="screen-exam" class="screen" hidden>
+  <header class="exam-head">
+    <div class="exam-head-row">
+      <button class="btn btn-ghost btn-sm" id="btn-quit" type="button">&larr; Exit</button>
+      <span class="exam-title" id="exam-title"></span>
+      <span class="timer" id="timer" aria-live="off">00:00</span>
+    </div>
+    <div class="progress" role="progressbar" aria-label="Questions answered" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progress-bar">
+      <div class="progress-fill" id="progress-fill"></div>
+    </div>
+    <div class="exam-head-row exam-head-meta">
+      <span id="progress-text" aria-live="polite">0 of 0 answered</span>
+      <button class="btn btn-link" id="btn-jump" type="button" hidden>Go to first unanswered</button>
+    </div>
+  </header>
+
+  <main id="question-list" class="question-list"></main>
+
+  <div class="submit-bar">
+    <p id="submit-hint" class="submit-hint"></p>
+    <button class="btn btn-primary btn-block" id="btn-submit" type="button" disabled>Submit exam</button>
+  </div>
+</section>
+
+<!-- ============ RESULTS ============ -->
+<section id="screen-result" class="screen" hidden>
+  <header class="result-head">
+    <p class="result-set" id="result-set"></p>
+    <div class="score-ring" id="score-ring">
+      <span class="score-pct" id="score-pct">0%</span>
+      <span class="score-frac" id="score-frac">0 / 0</span>
+    </div>
+    <p class="result-verdict" id="result-verdict"></p>
+    <dl class="stats">
+      <div><dt>Correct</dt><dd id="stat-correct" class="good">0</dd></div>
+      <div><dt>Incorrect</dt><dd id="stat-wrong" class="bad">0</dd></div>
+      <div><dt>Marks</dt><dd id="stat-marks">0</dd></div>
+      <div><dt>Time</dt><dd id="stat-time">—</dd></div>
+    </dl>
+    <div class="result-actions">
+      <button class="btn btn-primary" id="btn-retry" type="button">Retry this set</button>
+      <button class="btn btn-ghost" id="btn-home" type="button">Choose another set</button>
+    </div>
+  </header>
+
+  <div class="filters" role="group" aria-label="Filter review">
+    <button class="chip is-active" data-filter="all" type="button">All</button>
+    <button class="chip" data-filter="wrong" type="button">Mistakes</button>
+    <button class="chip" data-filter="correct" type="button">Correct</button>
+  </div>
+
+  <main id="review-list" class="question-list"></main>
+
+  <div class="submit-bar">
+    <button class="btn btn-ghost btn-block" id="btn-home-2" type="button">Back to sets</button>
+  </div>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>

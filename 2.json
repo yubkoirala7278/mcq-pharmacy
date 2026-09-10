@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 2",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which physiographic region of Nepal has the highest altitude?",
+      "options": {
+        "A": "Terai",
+        "B": "Hilly Region",
+        "C": "Mountain Region",
+        "D": "Inner Terai"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which is the longest river of Nepal?",
+      "options": {
+        "A": "Koshi",
+        "B": "Karnali",
+        "C": "Gandaki",
+        "D": "Bagmati"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which natural resource is considered a major source of renewable energy potential in Nepal?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Natural gas",
+        "D": "Hydropower"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which place is recognized as the birthplace of Gautama Buddha?",
+      "options": {
+        "A": "Janakpur",
+        "B": "Lumbini",
+        "C": "Kathmandu",
+        "D": "Pokhara"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which festival is commonly known as the festival of lights in Nepal?",
+      "options": {
+        "A": "Dashain",
+        "B": "Holi",
+        "C": "Tihar",
+        "D": "Teej"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which sector contributes significantly to Nepal's economy through employment and foreign exchange earnings?",
+      "options": {
+        "A": "Foreign employment",
+        "B": "Mining only",
+        "C": "Shipbuilding",
+        "D": "Automobile manufacturing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "What is the main purpose of a periodic development plan?",
+      "options": {
+        "A": "To guide national development priorities and resource allocation",
+        "B": "To regulate private pharmacies only",
+        "C": "To replace the Constitution",
+        "D": "To appoint civil servants"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which gas is a major contributor to the greenhouse effect?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Argon"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of air pollution?",
+      "options": {
+        "A": "Emission of particulate matter from vehicles",
+        "B": "Rainwater harvesting",
+        "C": "Afforestation",
+        "D": "Composting"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Population management primarily aims to address which of the following?",
+      "options": {
+        "A": "Only migration",
+        "B": "Population growth, distribution and demographic characteristics",
+        "C": "Only urban construction",
+        "D": "Only agricultural production"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which constitutional body is responsible for conducting examinations for recruitment to the civil service in Nepal?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "National Planning Commission",
+        "C": "Office of the Prime Minister",
+        "D": "Ministry of Finance"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Fundamental rights are primarily included in which part of the Constitution of Nepal?",
+      "options": {
+        "A": "Part 1",
+        "B": "Part 2",
+        "C": "Part 3",
+        "D": "Part 5"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which schedule of the Constitution of Nepal contains the national flag?",
+      "options": {
+        "A": "Schedule 1",
+        "B": "Schedule 3",
+        "C": "Schedule 5",
+        "D": "Schedule 8"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which UN specialized agency primarily deals with international public health?",
+      "options": {
+        "A": "FAO",
+        "B": "WHO",
+        "C": "ILO",
+        "D": "UNESCO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Where is the headquarters of the World Health Organization located?",
+      "options": {
+        "A": "New York",
+        "B": "Rome",
+        "C": "Geneva",
+        "D": "Vienna"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which regional organization primarily comprises countries of South Asia?",
+      "options": {
+        "A": "SAARC",
+        "B": "ASEAN",
+        "C": "European Union",
+        "D": "BIMSTEC"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Which organization is primarily associated with Southeast Asian countries?",
+      "options": {
+        "A": "SAARC",
+        "B": "ASEAN",
+        "C": "BIMSTEC",
+        "D": "EU"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a function of an office?",
+      "options": {
+        "A": "Receiving, processing and communicating information",
+        "B": "Manufacturing all medicines",
+        "C": "Conducting surgical operations",
+        "D": "Producing electricity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which type of office is established to perform government administrative functions?",
+      "options": {
+        "A": "Private office",
+        "B": "Government office",
+        "C": "Trading office",
+        "D": "Personal office"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which quality is most important for an office assistant?",
+      "options": {
+        "A": "Carelessness",
+        "B": "Dishonesty",
+        "C": "Punctuality and responsibility",
+        "D": "Avoidance of communication"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is an example of a physical office resource?",
+      "options": {
+        "A": "Furniture",
+        "B": "Leadership",
+        "C": "Motivation",
+        "D": "Coordination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which is an example of written communication in an office?",
+      "options": {
+        "A": "Telephone conversation",
+        "B": "Official letter",
+        "C": "Facial expression",
+        "D": "Hand gesture"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "What is a circular in office administration?",
+      "options": {
+        "A": "A document issued to communicate information to multiple concerned persons or offices",
+        "B": "A personal diary",
+        "C": "A financial audit report only",
+        "D": "A prescription"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "What is the primary purpose of filing?",
+      "options": {
+        "A": "To destroy documents",
+        "B": "To arrange and preserve documents for easy retrieval",
+        "C": "To increase correspondence",
+        "D": "To prepare medicines"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "A good official note should primarily be:",
+      "options": {
+        "A": "Long and repetitive",
+        "B": "Unclear and informal",
+        "C": "Clear, concise and based on facts",
+        "D": "Written without evidence"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Which management function involves ensuring that organizational activities follow established plans and standards?",
+      "options": {
+        "A": "Control",
+        "B": "Recruitment",
+        "C": "Filing",
+        "D": "Correspondence"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Coordination in management mainly aims to:",
+      "options": {
+        "A": "Create conflict among departments",
+        "B": "Integrate efforts toward common objectives",
+        "C": "Eliminate communication",
+        "D": "Increase duplication of work"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which management function involves choosing the best alternative from available options?",
+      "options": {
+        "A": "Decision-making",
+        "B": "Filing",
+        "C": "Dispatch",
+        "D": "Storage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which is an important characteristic of effective leadership?",
+      "options": {
+        "A": "Inability to communicate",
+        "B": "Ability to guide and influence others",
+        "C": "Avoiding responsibility",
+        "D": "Ignoring organizational goals"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a citizen's duty?",
+      "options": {
+        "A": "Violating laws",
+        "B": "Protecting public property and obeying laws",
+        "C": "Misusing public resources",
+        "D": "Avoiding civic responsibilities"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which ministry is primarily responsible for general administration and civil service management in Nepal?",
+      "options": {
+        "A": "Ministry of Finance",
+        "B": "Ministry of Federal Affairs and General Administration",
+        "C": "Ministry of Industry",
+        "D": "Ministry of Tourism"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which principle is closely associated with good governance?",
+      "options": {
+        "A": "Accountability",
+        "B": "Secrecy in every matter",
+        "C": "Discrimination",
+        "D": "Arbitrariness"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an important human value in public service?",
+      "options": {
+        "A": "Integrity",
+        "B": "Corruption",
+        "C": "Favoritism",
+        "D": "Negligence"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which government accounting document records government income and expenditure?",
+      "options": {
+        "A": "Prescription",
+        "B": "Financial records",
+        "C": "Patient card",
+        "D": "Drug label"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "The Department of Drug Administration of Nepal is primarily concerned with:",
+      "options": {
+        "A": "Regulation and control of medicines",
+        "B": "Road construction",
+        "C": "Foreign affairs",
+        "D": "Agricultural irrigation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which activity falls under pharmaceutical regulation?",
+      "options": {
+        "A": "Monitoring the quality of medicines",
+        "B": "Constructing airports",
+        "C": "Issuing driving licenses",
+        "D": "Managing forests"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Under pharmaceutical legislation, why is drug registration important?",
+      "options": {
+        "A": "To establish regulatory control over medicines before marketing",
+        "B": "To increase advertising",
+        "C": "To eliminate quality testing",
+        "D": "To avoid documentation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which regulation primarily deals with inspection and investigation of medicines?",
+      "options": {
+        "A": "Drug Registration Regulation",
+        "B": "Drug Investigation and Inspection Regulation",
+        "C": "Civil Service Regulation",
+        "D": "Financial Regulation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Good Manufacturing Practice primarily aims to ensure:",
+      "options": {
+        "A": "Consistent production and quality control of medicines",
+        "B": "Higher medicine prices",
+        "C": "More advertisements",
+        "D": "Faster prescription writing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which pharmacopoeia is widely recognized as an official standard for pharmaceutical quality?",
+      "options": {
+        "A": "British Pharmacopoeia",
+        "B": "World Atlas",
+        "C": "Medical Dictionary",
+        "D": "Hospital Register"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "National Drug Policy primarily provides direction for:",
+      "options": {
+        "A": "The development and appropriate use of medicines within the country",
+        "B": "Construction of highways",
+        "C": "Foreign currency exchange",
+        "D": "Tourism promotion"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which information should be clearly communicated to a patient during dispensing?",
+      "options": {
+        "A": "Dose and frequency of administration",
+        "B": "Pharmacist's personal information",
+        "C": "Manufacturer's political views",
+        "D": "Unrelated hospital activities"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which dosage form is designed to be applied to the skin?",
+      "options": {
+        "A": "Tablet",
+        "B": "Ointment",
+        "C": "Capsule",
+        "D": "Injection"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which dosage form is generally intended for administration into the eye?",
+      "options": {
+        "A": "Eye drops",
+        "B": "Capsule",
+        "C": "Tablet",
+        "D": "Powder for oral use"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "A preservative in a pharmaceutical formulation is mainly used to:",
+      "options": {
+        "A": "Prevent or reduce microbial growth",
+        "B": "Increase patient age",
+        "C": "Replace the active ingredient",
+        "D": "Increase tablet size only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which is an important responsibility of a community pharmacist?",
+      "options": {
+        "A": "Providing appropriate medicine-related information to patients",
+        "B": "Performing major surgery",
+        "C": "Conducting X-ray imaging",
+        "D": "Performing anesthesia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "What is medication adherence?",
+      "options": {
+        "A": "Taking medicines according to the prescribed instructions",
+        "B": "Stopping all medicines immediately",
+        "C": "Changing the dose without advice",
+        "D": "Sharing medicines with others"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "What is the main purpose of a National Formulary?",
+      "options": {
+        "A": "To provide information and guidance on medicines for appropriate use",
+        "B": "To advertise pharmaceutical companies",
+        "C": "To register hospital employees",
+        "D": "To calculate national population"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Standard Treatment Guidelines are mainly intended to promote:",
+      "options": {
+        "A": "Evidence-based and consistent treatment",
+        "B": "Unnecessary medicine use",
+        "C": "Self-medication in all cases",
+        "D": "Use of the most expensive medicines"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "In first aid, what is the first priority when dealing with a seriously injured person?",
+      "options": {
+        "A": "Ensuring safety and assessing vital functions",
+        "B": "Giving food immediately",
+        "C": "Moving the person unnecessarily",
+        "D": "Giving antibiotics immediately"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "What should generally be done for a person with a suspected fracture?",
+      "options": {
+        "A": "Immobilize the affected part and seek medical help",
+        "B": "Massage the fractured area forcefully",
+        "C": "Attempt to straighten it immediately",
+        "D": "Ask the person to exercise"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Which is an important component of maternal health care?",
+      "options": {
+        "A": "Antenatal care",
+        "B": "Ignoring pregnancy complications",
+        "C": "Avoiding health checkups",
+        "D": "Self-prescribing medicines"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which practice is important for improving child health?",
+      "options": {
+        "A": "Immunization",
+        "B": "Avoiding nutritious food",
+        "C": "Avoiding growth monitoring",
+        "D": "Using antibiotics without indication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Which method is commonly used to dry medicinal plants?",
+      "options": {
+        "A": "Controlled air drying",
+        "B": "Continuous soaking in water",
+        "C": "Keeping them permanently wet",
+        "D": "Storing them in sewage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Which factor can adversely affect the quality of stored herbal drugs?",
+      "options": {
+        "A": "Excessive moisture",
+        "B": "Proper ventilation",
+        "C": "Controlled temperature",
+        "D": "Clean storage conditions"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "What is the purpose of isolating an active constituent from a medicinal plant?",
+      "options": {
+        "A": "To obtain and study the biologically active compound",
+        "B": "To remove all useful compounds",
+        "C": "To increase contamination",
+        "D": "To destroy the plant material"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "In titrimetric analysis, the solution of accurately known concentration is called:",
+      "options": {
+        "A": "Standard solution",
+        "B": "Unknown solvent",
+        "C": "Buffer only",
+        "D": "Indicator solution"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "What does absorbance in spectrophotometry generally measure?",
+      "options": {
+        "A": "The amount of light absorbed by a sample",
+        "B": "The temperature of a sample",
+        "C": "The weight of the instrument",
+        "D": "The pressure of the laboratory"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Beer-Lambert law relates absorbance primarily to:",
+      "options": {
+        "A": "Concentration and path length",
+        "B": "Temperature and pressure only",
+        "C": "Weight and volume only",
+        "D": "pH and melting point only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "In chromatography, the mobile phase is responsible for:",
+      "options": {
+        "A": "Moving analytes through or across the stationary phase",
+        "B": "Stopping all compounds",
+        "C": "Destroying the stationary phase",
+        "D": "Sterilizing the sample"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which route of administration generally avoids first-pass hepatic metabolism?",
+      "options": {
+        "A": "Oral",
+        "B": "Intravenous",
+        "C": "Oral solution",
+        "D": "Enteric-coated tablet"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Bioavailability refers to:",
+      "options": {
+        "A": "The fraction of administered drug reaching systemic circulation in active form",
+        "B": "The taste of a medicine",
+        "C": "The shelf life of a medicine",
+        "D": "The color of a dosage form"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "A drug receptor is generally a biological structure that:",
+      "options": {
+        "A": "Interacts with a drug to produce or modify a biological response",
+        "B": "Stores medicines in pharmacies",
+        "C": "Packages tablets",
+        "D": "Measures drug prices"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which type of immunity develops after vaccination?",
+      "options": {
+        "A": "Artificially acquired active immunity",
+        "B": "Naturally acquired passive immunity",
+        "C": "Naturally acquired active immunity only",
+        "D": "Artificially acquired passive immunity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which method is commonly used to sterilize heat-stable aqueous pharmaceutical preparations?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Sun drying",
+        "C": "Paper chromatography",
+        "D": "Freezing only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "In pharmaceutical inventory management, ABC analysis primarily classifies items according to:",
+      "options": {
+        "A": "Annual consumption value",
+        "B": "Color of packaging",
+        "C": "Dosage form only",
+        "D": "Manufacturer's country"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which stock rotation principle gives priority to items that expire earlier?",
+      "options": {
+        "A": "FIFO",
+        "B": "FEFO",
+        "C": "LIFO",
+        "D": "HIFO"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Why should medicines be protected from excessive heat and humidity?",
+      "options": {
+        "A": "They may undergo physical or chemical degradation",
+        "B": "They become more effective automatically",
+        "C": "Their price increases",
+        "D": "Their packaging becomes stronger"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "What is a reorder level in inventory management?",
+      "options": {
+        "A": "The stock level at which a new order should be placed",
+        "B": "The maximum expiry date",
+        "C": "The selling price of medicine",
+        "D": "The quantity destroyed after expiry"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is a major objective of an efficient drug supply system?",
+      "options": {
+        "A": "Continuous availability of quality medicines at appropriate service points",
+        "B": "Maintaining frequent stock-outs",
+        "C": "Increasing expired stock",
+        "D": "Avoiding inventory records"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

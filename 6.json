@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service - Pharmacy Group, Fifth Level - Practice Question Set 6",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the smallest physical region of Nepal by area?",
+      "options": {
+        "A": "Mountain",
+        "B": "Hill",
+        "C": "Terai",
+        "D": "Inner Terai"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which river originates in the Tibetan region and flows through western Nepal?",
+      "options": {
+        "A": "Karnali",
+        "B": "Bagmati",
+        "C": "Rapti",
+        "D": "Mechi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which national park is famous for one-horned rhinoceros conservation?",
+      "options": {
+        "A": "Sagarmatha National Park",
+        "B": "Chitwan National Park",
+        "C": "Rara National Park",
+        "D": "Langtang National Park"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which cultural heritage site is traditionally associated with Lord Buddha's birthplace?",
+      "options": {
+        "A": "Janakpur",
+        "B": "Pashupatinath",
+        "C": "Lumbini",
+        "D": "Gorkha"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which indicator is commonly used to measure changes in the general level of consumer prices?",
+      "options": {
+        "A": "Consumer Price Index",
+        "B": "Gross Domestic Product",
+        "C": "Human Development Index",
+        "D": "Balance of Payments"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which activity can contribute most directly to air pollution in urban areas?",
+      "options": {
+        "A": "Rainwater harvesting",
+        "B": "Vehicle emissions",
+        "C": "Afforestation",
+        "D": "Solar power generation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which concept emphasizes meeting present needs without compromising future generations?",
+      "options": {
+        "A": "Industrialization",
+        "B": "Urbanization",
+        "C": "Sustainable development",
+        "D": "Commercialization"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which vitamin deficiency can cause night blindness?",
+      "options": {
+        "A": "Vitamin B1",
+        "B": "Vitamin C",
+        "C": "Vitamin D",
+        "D": "Vitamin A"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which organ of the United Nations is primarily responsible for maintaining international peace and security?",
+      "options": {
+        "A": "Security Council",
+        "B": "General Assembly",
+        "C": "International Court of Justice",
+        "D": "Economic and Social Council"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "UNICEF primarily focuses on:",
+      "options": {
+        "A": "International monetary policy",
+        "B": "Children and child welfare",
+        "C": "International aviation",
+        "D": "Global trade"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which organization is a regional grouping of European countries?",
+      "options": {
+        "A": "SAARC",
+        "B": "BIMSTEC",
+        "C": "European Union",
+        "D": "ASEAN"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Which type of pollution is primarily caused by excessive unwanted sound?",
+      "options": {
+        "A": "Water pollution",
+        "B": "Air pollution",
+        "C": "Soil pollution",
+        "D": "Noise pollution"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "Which office resource includes employees and their skills?",
+      "options": {
+        "A": "Human resource",
+        "B": "Financial resource",
+        "C": "Physical resource",
+        "D": "Material resource"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "What is the main purpose of an office order?",
+      "options": {
+        "A": "To record personal opinions",
+        "B": "To communicate an official instruction or decision",
+        "C": "To advertise private products",
+        "D": "To replace financial records"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which method arranges records according to the date of creation or receipt?",
+      "options": {
+        "A": "Numerical filing",
+        "B": "Subject filing",
+        "C": "Chronological filing",
+        "D": "Alphabetical filing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which quality is essential for effective official correspondence?",
+      "options": {
+        "A": "Ambiguity",
+        "B": "Excessive length",
+        "C": "Informal language",
+        "D": "Clarity"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Which communication channel is most appropriate for sending a formal electronic document?",
+      "options": {
+        "A": "Email",
+        "B": "Telephone conversation",
+        "C": "Informal discussion",
+        "D": "Personal message only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "The main purpose of maintaining an office record is to:",
+      "options": {
+        "A": "Increase storage costs",
+        "B": "Provide reliable information for reference and future use",
+        "C": "Prevent information sharing",
+        "D": "Eliminate accountability"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which management function determines organizational objectives and ways to achieve them?",
+      "options": {
+        "A": "Controlling",
+        "B": "Staffing",
+        "C": "Planning",
+        "D": "Supervision"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Leadership primarily involves:",
+      "options": {
+        "A": "Influencing and guiding people toward objectives",
+        "B": "Maintaining records only",
+        "C": "Purchasing equipment",
+        "D": "Preparing accounts only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which activity is an example of supervision?",
+      "options": {
+        "A": "Ignoring employee performance",
+        "B": "Monitoring work and providing necessary guidance",
+        "C": "Eliminating work standards",
+        "D": "Avoiding communication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which factor is important for sound decision-making?",
+      "options": {
+        "A": "Rumors only",
+        "B": "Personal bias only",
+        "C": "Relevant and reliable information",
+        "D": "Incomplete information"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following best describes coordination?",
+      "options": {
+        "A": "Integration of activities among different individuals or units",
+        "B": "Separation of all departments",
+        "C": "Elimination of communication",
+        "D": "Avoidance of common goals"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which ethical principle requires officials to avoid using public office for personal benefit?",
+      "options": {
+        "A": "Competition",
+        "B": "Neutrality",
+        "C": "Confidentiality",
+        "D": "Integrity"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Promotion in civil service generally means:",
+      "options": {
+        "A": "Movement to a higher position according to applicable rules",
+        "B": "Temporary absence from office",
+        "C": "Permanent removal from service",
+        "D": "Transfer to another district only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which is a form of leave available to civil servants according to applicable service rules?",
+      "options": {
+        "A": "Commercial leave",
+        "B": "Casual leave",
+        "C": "Election leave for all private work",
+        "D": "Business leave"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Departmental punishment in civil service is generally associated with:",
+      "options": {
+        "A": "Rewarding outstanding performance only",
+        "B": "Changing office furniture",
+        "C": "Disciplinary action for misconduct according to rules",
+        "D": "Increasing annual holidays"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Retirement from civil service refers to:",
+      "options": {
+        "A": "Temporary transfer",
+        "B": "Change of department",
+        "C": "Short-term training",
+        "D": "Leaving service according to applicable retirement provisions"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Which body is responsible for conducting elections in Nepal?",
+      "options": {
+        "A": "Election Commission",
+        "B": "Public Service Commission",
+        "C": "Auditor General",
+        "D": "National Human Rights Commission"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which constitutional body is primarily concerned with protection and promotion of human rights?",
+      "options": {
+        "A": "National Planning Commission",
+        "B": "National Human Rights Commission",
+        "C": "Public Service Commission",
+        "D": "Election Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "The Drug Act, 2035 is mainly concerned with:",
+      "options": {
+        "A": "Construction of hospitals",
+        "B": "Regulation and control of drugs",
+        "C": "Recruitment of nurses",
+        "D": "Management of local roads"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which activity is part of the regulatory control of medicines?",
+      "options": {
+        "A": "Drug registration",
+        "B": "Road licensing",
+        "C": "Vehicle taxation",
+        "D": "Land surveying"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Why is drug registration important before marketing a medicine?",
+      "options": {
+        "A": "To guarantee maximum profit",
+        "B": "To eliminate all competition",
+        "C": "To assess and regulate the medicine before legal marketing",
+        "D": "To avoid quality testing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Which practice helps maintain the quality of medicines during distribution?",
+      "options": {
+        "A": "Exposure to uncontrolled temperature",
+        "B": "Maintaining appropriate storage and transportation conditions",
+        "C": "Removing batch information",
+        "D": "Mixing expired and valid stock"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "A drug recall may be necessary when a marketed medicine:",
+      "options": {
+        "A": "Has a safety or quality problem",
+        "B": "Has attractive packaging",
+        "C": "Is stored correctly",
+        "D": "Has valid registration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which information is particularly useful for tracing a medicine batch?",
+      "options": {
+        "A": "Office room number",
+        "B": "Employee ID",
+        "C": "Batch number",
+        "D": "Patient's occupation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Which pharmacopoeia is associated with standards for medicines in the United States?",
+      "options": {
+        "A": "United States Pharmacopeia",
+        "B": "British Pharmacopoeia",
+        "C": "European Pharmacopoeia",
+        "D": "International Pharmacopoeia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "The International Pharmacopoeia is published by:",
+      "options": {
+        "A": "UNESCO",
+        "B": "WHO",
+        "C": "ILO",
+        "D": "World Bank"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which component of a prescription specifies how the medicine should be used by the patient?",
+      "options": {
+        "A": "Superscription",
+        "B": "Inscription",
+        "C": "Signa",
+        "D": "Date only"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Before dispensing, the pharmacist should primarily verify:",
+      "options": {
+        "A": "The patient's clothing",
+        "B": "The prescription, medicine, strength and quantity",
+        "C": "The patient's occupation",
+        "D": "The patient's income"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which dosage form is generally intended to dissolve slowly in the mouth?",
+      "options": {
+        "A": "Lozenge",
+        "B": "Injection",
+        "C": "Suppository",
+        "D": "Ointment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which excipient is mainly added to prevent microbial growth in suitable pharmaceutical preparations?",
+      "options": {
+        "A": "Binder",
+        "B": "Preservative",
+        "C": "Disintegrant",
+        "D": "Lubricant"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which excipient improves the flow properties of powders during tablet manufacturing?",
+      "options": {
+        "A": "Glidant",
+        "B": "Sweetener",
+        "C": "Coloring agent",
+        "D": "Preservative"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "What is the main purpose of a medicine label?",
+      "options": {
+        "A": "To provide essential information for correct and safe use",
+        "B": "To increase the size of the package",
+        "C": "To hide the expiry date",
+        "D": "To replace patient counseling completely"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which information should normally be communicated to a patient during counseling?",
+      "options": {
+        "A": "Only the medicine price",
+        "B": "Only the manufacturer's name",
+        "C": "Dose, route, frequency and important precautions",
+        "D": "Only the color of the package"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Which activity is part of pharmaceutical care?",
+      "options": {
+        "A": "Identifying and resolving medicine-related problems",
+        "B": "Selling medicines without assessment",
+        "C": "Ignoring adverse effects",
+        "D": "Replacing every physician decision"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "What is the primary objective of a national essential medicines list?",
+      "options": {
+        "A": "To identify medicines that meet priority health-care needs",
+        "B": "To include every medicine available worldwide",
+        "C": "To promote only expensive medicines",
+        "D": "To eliminate generic medicines"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which action is appropriate when a patient is suspected of poisoning?",
+      "options": {
+        "A": "Immediately induce vomiting in every case",
+        "B": "Seek urgent medical assistance and identify the substance if possible",
+        "C": "Give any available medicine",
+        "D": "Allow the patient to remain unattended"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Which first-aid measure is appropriate for a conscious person with a nosebleed?",
+      "options": {
+        "A": "Tilt the head backward",
+        "B": "Lie completely flat",
+        "C": "Sit upright and lean slightly forward while applying appropriate pressure",
+        "D": "Blow the nose repeatedly"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which is an important component of antenatal care?",
+      "options": {
+        "A": "Monitoring maternal and fetal health",
+        "B": "Avoiding nutritional counseling",
+        "C": "Avoiding health-facility visits",
+        "D": "Self-prescribing antibiotics"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Exclusive breastfeeding is generally recommended for infants during the first:",
+      "options": {
+        "A": "1 month",
+        "B": "3 months",
+        "C": "6 months",
+        "D": "12 months"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 52,
+      "question": "Which of the following is an important principle of primary health care?",
+      "options": {
+        "A": "Intersectoral coordination",
+        "B": "Exclusive dependence on tertiary hospitals",
+        "C": "Ignoring community participation",
+        "D": "Focusing only on curative treatment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which extraction method is particularly suitable for volatile oils?",
+      "options": {
+        "A": "Steam distillation",
+        "B": "Maceration only",
+        "C": "Incineration",
+        "D": "Dry ashing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "What is the main purpose of comminution of crude drugs?",
+      "options": {
+        "A": "Increase particle size",
+        "B": "Reduce particle size and increase surface area",
+        "C": "Remove all active constituents",
+        "D": "Sterilize the drug completely"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which factor can influence extraction efficiency from a crude drug?",
+      "options": {
+        "A": "Particle size of the drug",
+        "B": "Office location",
+        "C": "Patient age only",
+        "D": "Package color only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which type of titration uses a reaction between an acid and a base?",
+      "options": {
+        "A": "Redox titration",
+        "B": "Precipitation titration",
+        "C": "Complexometric titration",
+        "D": "Acid-base titration"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 57,
+      "question": "What is the function of a burette in titrimetric analysis?",
+      "options": {
+        "A": "To accurately deliver a measured variable volume of titrant",
+        "B": "To measure temperature",
+        "C": "To filter the sample",
+        "D": "To sterilize the solution"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "UV spectroscopy generally involves absorption of:",
+      "options": {
+        "A": "Sound waves",
+        "B": "Ultraviolet radiation",
+        "C": "Mechanical waves",
+        "D": "Infrared heat only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which detector-related property is important in spectrophotometric measurement?",
+      "options": {
+        "A": "Ability to detect transmitted or absorbed radiation",
+        "B": "Ability to weigh tablets",
+        "C": "Ability to sterilize glassware",
+        "D": "Ability to separate capsules"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "In chromatography, the mobile phase is the phase that:",
+      "options": {
+        "A": "Remains permanently fixed",
+        "B": "Moves through or over the stationary phase",
+        "C": "Always consists of a solid",
+        "D": "Prevents all separation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Which statistical measure describes the central value of a set of observations?",
+      "options": {
+        "A": "Mean",
+        "B": "Range only",
+        "C": "Standard deviation only",
+        "D": "Variance only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "What does standard deviation primarily indicate?",
+      "options": {
+        "A": "The exact average only",
+        "B": "The degree of variation or dispersion in observations",
+        "C": "The sample identity",
+        "D": "The chemical formula"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which term describes the time required for the concentration of a drug in the body to decrease by half?",
+      "options": {
+        "A": "Half-life",
+        "B": "Onset time",
+        "C": "Latency period",
+        "D": "Shelf life"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which route of drug administration avoids first-pass hepatic metabolism most directly?",
+      "options": {
+        "A": "Oral",
+        "B": "Sublingual",
+        "C": "Gastric",
+        "D": "Enteral through stomach"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Which type of immunity develops after exposure to an antigen and production of an immune response by the person?",
+      "options": {
+        "A": "Passive immunity",
+        "B": "Innate immunity only",
+        "C": "Active immunity",
+        "D": "Non-specific immunity only"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Which method is commonly used for sterilization of heat-sensitive solutions when appropriate?",
+      "options": {
+        "A": "Dry heat",
+        "B": "Filtration",
+        "C": "Direct flaming",
+        "D": "Incineration"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "In inventory control, FSN analysis classifies items according to:",
+      "options": {
+        "A": "Movement or rate of consumption",
+        "B": "Annual monetary value only",
+        "C": "Criticality only",
+        "D": "Dosage form"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which inventory technique gives priority to medicines that are about to expire?",
+      "options": {
+        "A": "LIFO",
+        "B": "FEFO",
+        "C": "Random issue",
+        "D": "Maximum stock method"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Which document can be used to authorize the issue of medicines from a central store to a service unit?",
+      "options": {
+        "A": "Indent or requisition",
+        "B": "Prescription only",
+        "C": "Appointment letter",
+        "D": "Leave application"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which condition should generally be avoided in a pharmaceutical store?",
+      "options": {
+        "A": "Adequate ventilation",
+        "B": "Proper shelving",
+        "C": "Excessive heat and humidity",
+        "D": "Regular stock inspection"
+      },
+      "correct_answer": "C"
+    }
+  ]
+}
