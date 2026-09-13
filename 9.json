@@ -1,0 +1,778 @@
+{
+  "title": "KMC Pharmacy Fifth Level Model MCQ Set 8",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which mountain range forms the northernmost major physical region of Nepal?",
+      "options": {
+        "A": "Chure Range",
+        "B": "Mahabharat Range",
+        "C": "Himalayan Range",
+        "D": "Siwalik Range"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which river is traditionally considered one of the major tributaries of the Ganges originating in Nepal?",
+      "options": {
+        "A": "Karnali",
+        "B": "Rapti",
+        "C": "Bagmati",
+        "D": "Mechi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which protected area of Nepal is particularly famous for one-horned rhinoceros conservation?",
+      "options": {
+        "A": "Shey Phoksundo National Park",
+        "B": "Chitwan National Park",
+        "C": "Langtang National Park",
+        "D": "Rara National Park"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which traditional Nepali architecture is characterized by progressively smaller roofs stacked above one another?",
+      "options": {
+        "A": "Pagoda style",
+        "B": "Gothic style",
+        "C": "Roman style",
+        "D": "Mughal style"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which festival is particularly associated with worship of dogs in Nepal?",
+      "options": {
+        "A": "Holi",
+        "B": "Teej",
+        "C": "Kukur Tihar",
+        "D": "Maghe Sankranti"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which sector has historically been an important source of employment for many Nepali workers abroad?",
+      "options": {
+        "A": "Foreign employment",
+        "B": "Space research",
+        "C": "Deep-sea mining",
+        "D": "Nuclear engineering"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Inflation refers to:",
+      "options": {
+        "A": "A sustained rise in the general price level",
+        "B": "A fall in population",
+        "C": "An increase in forest area",
+        "D": "A decrease in money supply only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which gas is a major contributor to anthropogenic climate change?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Argon"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which practice is most useful for conserving biodiversity?",
+      "options": {
+        "A": "Habitat destruction",
+        "B": "Overhunting",
+        "C": "Protected-area management",
+        "D": "Uncontrolled urban expansion"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Which nutrient provides the highest amount of energy per gram among the major macronutrients?",
+      "options": {
+        "A": "Protein",
+        "B": "Carbohydrate",
+        "C": "Fat",
+        "D": "Minerals"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Which technology has greatly improved rapid communication across long distances?",
+      "options": {
+        "A": "Telecommunication technology",
+        "B": "Stone carving",
+        "C": "Manual ploughing",
+        "D": "Traditional weaving"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Which institution is primarily responsible for conducting monetary policy in Nepal?",
+      "options": {
+        "A": "Ministry of Finance",
+        "B": "Nepal Rastra Bank",
+        "C": "National Planning Commission",
+        "D": "Office of the Auditor General"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which organ of the state is primarily responsible for making laws?",
+      "options": {
+        "A": "Judiciary",
+        "B": "Executive",
+        "C": "Legislature",
+        "D": "Constitutional bodies"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which international organization has its main headquarters in New York?",
+      "options": {
+        "A": "UNICEF",
+        "B": "WHO",
+        "C": "UNESCO",
+        "D": "United Nations"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "ASEAN is primarily an organization of countries from:",
+      "options": {
+        "A": "Southeast Asia",
+        "B": "South America",
+        "C": "Central Europe",
+        "D": "West Asia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which organizational principle means assigning authority and responsibility to lower levels?",
+      "options": {
+        "A": "Centralization",
+        "B": "Delegation",
+        "C": "Isolation",
+        "D": "Duplication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which communication flows from a subordinate to a superior?",
+      "options": {
+        "A": "Downward communication",
+        "B": "Horizontal communication",
+        "C": "Upward communication",
+        "D": "External communication"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Which office procedure assigns an official number and date to a received document?",
+      "options": {
+        "A": "Registration",
+        "B": "Filing",
+        "C": "Dispatch",
+        "D": "Indexing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "The main purpose of an index in record management is to:",
+      "options": {
+        "A": "Destroy old records",
+        "B": "Make records easier to locate",
+        "C": "Increase paper consumption",
+        "D": "Prevent record classification"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which type of office resource includes employees and their skills?",
+      "options": {
+        "A": "Financial resource",
+        "B": "Physical resource",
+        "C": "Human resource",
+        "D": "Material resource"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "An effective official letter should generally be:",
+      "options": {
+        "A": "Clear and concise",
+        "B": "Ambiguous and lengthy",
+        "C": "Informal and incomplete",
+        "D": "Without a subject"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which management activity compares actual performance with planned performance?",
+      "options": {
+        "A": "Recruitment",
+        "B": "Planning",
+        "C": "Controlling",
+        "D": "Staffing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Motivation in an organization primarily aims to:",
+      "options": {
+        "A": "Reduce employee commitment",
+        "B": "Encourage employees toward organizational goals",
+        "C": "Eliminate communication",
+        "D": "Increase workplace conflict"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which quality is especially important for maintaining public trust among civil servants?",
+      "options": {
+        "A": "Integrity",
+        "B": "Favoritism",
+        "C": "Secrecy in every matter",
+        "D": "Personal gain"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which ministry is mainly concerned with federal affairs, local government and general administration in Nepal?",
+      "options": {
+        "A": "Ministry of Health and Population",
+        "B": "Ministry of Finance",
+        "C": "Ministry of Federal Affairs and General Administration",
+        "D": "Ministry of Education"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Which constitutional body is responsible for auditing government accounts?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "Office of the Auditor General",
+        "C": "Election Commission",
+        "D": "National Human Rights Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "The Public Service Commission primarily deals with:",
+      "options": {
+        "A": "Civil service recruitment recommendations",
+        "B": "Government auditing",
+        "C": "Monetary policy",
+        "D": "Foreign diplomacy"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "The annual government budget mainly presents:",
+      "options": {
+        "A": "Only government employee attendance",
+        "B": "Expected revenue and expenditure",
+        "C": "Only foreign policy",
+        "D": "Only population statistics"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Which principle of public service emphasizes treating citizens fairly without discrimination?",
+      "options": {
+        "A": "Equity",
+        "B": "Secrecy",
+        "C": "Exclusion",
+        "D": "Privilege"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "A major purpose of decentralizing public services is to:",
+      "options": {
+        "A": "Make services less accessible",
+        "B": "Bring services closer to citizens",
+        "C": "Eliminate local participation",
+        "D": "Concentrate all authority at the center"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "The Drug Act 2035 primarily aims to regulate:",
+      "options": {
+        "A": "Agricultural land",
+        "B": "Medicines and pharmaceutical activities",
+        "C": "Public transportation",
+        "D": "Construction materials"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which activity is important for maintaining the quality of medicines during distribution?",
+      "options": {
+        "A": "Maintaining appropriate storage and transport conditions",
+        "B": "Removing product labels",
+        "C": "Exposing products to sunlight",
+        "D": "Mixing different batches without records"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "The Drug Registration Regulation 2038 is primarily concerned with:",
+      "options": {
+        "A": "Registration of medicines",
+        "B": "Construction of hospitals",
+        "C": "Recruitment of civil servants",
+        "D": "Management of forests"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "The Drug Investigation and Inspection Regulation 2040 is associated with:",
+      "options": {
+        "A": "Drug-related investigation and inspection",
+        "B": "Budget preparation",
+        "C": "Medical education admission",
+        "D": "Hospital construction"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "The Drug Standard Regulation 2043 is mainly related to:",
+      "options": {
+        "A": "Standards of medicines",
+        "B": "Civil service promotion",
+        "C": "Road safety",
+        "D": "Population census"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "The Drug Production Code 2041 is most closely related to:",
+      "options": {
+        "A": "Production practices for medicines",
+        "B": "Government taxation",
+        "C": "Public transportation",
+        "D": "Forest conservation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "A pharmacopoeial monograph commonly contains information about:",
+      "options": {
+        "A": "Political history",
+        "B": "Official quality requirements for a substance or preparation",
+        "C": "Employee promotion",
+        "D": "Hospital building design"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which organization is commonly associated with international standards and nomenclature for medicines through its pharmacopoeial work?",
+      "options": {
+        "A": "World Health Organization",
+        "B": "World Trade Organization",
+        "C": "International Monetary Fund",
+        "D": "International Labour Organization"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "The National Drug Policy primarily provides direction for:",
+      "options": {
+        "A": "National management and appropriate use of medicines",
+        "B": "Construction of airports",
+        "C": "Foreign currency exchange",
+        "D": "School curriculum only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Before dispensing a prescription, the pharmacist should first verify:",
+      "options": {
+        "A": "Only the colour of the medicine",
+        "B": "The completeness and appropriateness of the prescription",
+        "C": "Only the manufacturer's logo",
+        "D": "Only the patient's occupation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which dosage form is intended to be applied to the skin?",
+      "options": {
+        "A": "Topical preparation",
+        "B": "Intravenous injection",
+        "C": "Ophthalmic injection",
+        "D": "Sublingual tablet"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which dosage form is a semisolid preparation commonly applied to the skin?",
+      "options": {
+        "A": "Syrup",
+        "B": "Ointment",
+        "C": "Elixir",
+        "D": "Injection"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "A disintegrant in a tablet formulation helps the tablet to:",
+      "options": {
+        "A": "Resist all dissolution",
+        "B": "Break apart after administration",
+        "C": "Increase microbial contamination",
+        "D": "Prevent drug release completely"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which excipient is primarily used to bind powder particles during tablet manufacture?",
+      "options": {
+        "A": "Binder",
+        "B": "Preservative",
+        "C": "Colouring agent",
+        "D": "Antioxidant"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Pharmaceutical incompatibility may occur when ingredients:",
+      "options": {
+        "A": "Are chemically or physically incompatible with each other",
+        "B": "Have the same expiry date",
+        "C": "Are stored alphabetically",
+        "D": "Have identical packaging"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which pharmacist activity directly supports safe medicine use after dispensing?",
+      "options": {
+        "A": "Patient counseling",
+        "B": "Changing the prescribed diagnosis",
+        "C": "Prescribing without authorization",
+        "D": "Ignoring patient questions"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Community pharmacists can contribute to public health by:",
+      "options": {
+        "A": "Providing appropriate medicine information and health advice",
+        "B": "Ignoring medication errors",
+        "C": "Encouraging unnecessary antibiotic use",
+        "D": "Selling medicines without consideration of safety"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "A hospital formulary is generally developed with the involvement of:",
+      "options": {
+        "A": "Only hospital security staff",
+        "B": "Relevant healthcare professionals",
+        "C": "Only patients",
+        "D": "Only suppliers"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Rational antibiotic use is important mainly to reduce:",
+      "options": {
+        "A": "Drug resistance and unnecessary adverse effects",
+        "B": "Patient counseling",
+        "C": "Medicine identification",
+        "D": "Pharmacy records"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "A standard treatment schedule mainly provides:",
+      "options": {
+        "A": "Guidance for appropriate treatment of common conditions",
+        "B": "A list of hospital employees",
+        "C": "A list of government offices",
+        "D": "Instructions for building pharmacies"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "For a minor burn, an appropriate basic first-aid measure is to:",
+      "options": {
+        "A": "Apply ice directly for a prolonged period",
+        "B": "Cool the affected area with clean running water",
+        "C": "Break all blisters",
+        "D": "Apply household chemicals"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which condition is commonly associated with the need for immediate first-aid assessment?",
+      "options": {
+        "A": "Severe bleeding",
+        "B": "Mild hunger",
+        "C": "Normal sleep",
+        "D": "Routine thirst"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which principle is fundamental to primary health care?",
+      "options": {
+        "A": "Community participation",
+        "B": "Exclusion of local communities",
+        "C": "Dependence only on specialized hospitals",
+        "D": "Restriction of preventive services"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Immunization is an important example of:",
+      "options": {
+        "A": "Disease prevention",
+        "B": "Disease diagnosis only",
+        "C": "Surgical treatment",
+        "D": "Rehabilitation only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Which practice is particularly important during pregnancy?",
+      "options": {
+        "A": "Regular antenatal check-ups",
+        "B": "Avoiding all healthcare contact",
+        "C": "Taking medicines without advice",
+        "D": "Skipping nutritious meals"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "In pharmacognosy, adulteration of a crude drug means:",
+      "options": {
+        "A": "Improving its purity intentionally",
+        "B": "Substitution or addition of inferior or unwanted material",
+        "C": "Increasing its therapeutic value automatically",
+        "D": "Removing all foreign matter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Which factor can adversely affect the quality of stored herbal drugs?",
+      "options": {
+        "A": "Excessive moisture",
+        "B": "Proper packaging",
+        "C": "Controlled temperature",
+        "D": "Protection from insects"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Percolation is an extraction method in which:",
+      "options": {
+        "A": "Solvent passes through a packed drug material",
+        "B": "The drug is burned to ash",
+        "C": "The material is frozen permanently",
+        "D": "Only dry heat is applied"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Isolation of an active constituent from a crude drug generally involves:",
+      "options": {
+        "A": "Separation and purification processes",
+        "B": "Only drying",
+        "C": "Only grinding",
+        "D": "Only packaging"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "In acid-base titration, a neutralization reaction occurs between:",
+      "options": {
+        "A": "An acid and a base",
+        "B": "Two inert gases",
+        "C": "Two metals only",
+        "D": "Two insoluble solids only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Visible spectrophotometry generally deals with electromagnetic radiation in the:",
+      "options": {
+        "A": "Visible region",
+        "B": "Radio-wave region",
+        "C": "Microwave region only",
+        "D": "X-ray region only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Paper chromatography separates substances mainly according to differences in their:",
+      "options": {
+        "A": "Partition and movement between stationary and mobile phases",
+        "B": "Melting points only",
+        "C": "Boiling points only",
+        "D": "Electrical conductivity only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "In column chromatography, separation occurs as compounds move through:",
+      "options": {
+        "A": "A packed stationary phase",
+        "B": "An empty tube without any stationary phase",
+        "C": "A metal wire",
+        "D": "A centrifuge rotor"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "The purpose of taking a representative sample is to:",
+      "options": {
+        "A": "Obtain results that reasonably represent the larger population or batch",
+        "B": "Select only defective items",
+        "C": "Avoid statistical analysis",
+        "D": "Increase sampling bias"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Pharmacodynamics mainly concerns the:",
+      "options": {
+        "A": "Effects of drugs on the body",
+        "B": "Movement of drugs through the supply chain",
+        "C": "Manufacturing cost of medicines",
+        "D": "Storage temperature of medicines"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Bioavailability refers to the:",
+      "options": {
+        "A": "Fraction of administered drug reaching systemic circulation in an available form",
+        "B": "Amount of drug remaining in the package",
+        "C": "Shelf life of a medicine",
+        "D": "Cost of producing a medicine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "An antibody is produced by cells of the:",
+      "options": {
+        "A": "Immune system",
+        "B": "Skeletal system only",
+        "C": "Digestive system only",
+        "D": "Urinary system only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which method is commonly used for sterilizing heat-stable aqueous preparations?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Sun drying",
+        "C": "Refrigeration",
+        "D": "Filtration through ordinary cloth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Logistics management in a drug supply system primarily ensures:",
+      "options": {
+        "A": "Availability of the right products at the right place and time",
+        "B": "Permanent shortage of medicines",
+        "C": "Removal of stock records",
+        "D": "Uncontrolled purchasing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "A stock-out occurs when:",
+      "options": {
+        "A": "The available quantity of a medicine reaches zero or becomes unavailable",
+        "B": "The stock is properly replenished",
+        "C": "A new purchase order is received",
+        "D": "A medicine is correctly stored"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

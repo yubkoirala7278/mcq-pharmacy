@@ -1,0 +1,778 @@
+{
+  "title": "KMC Pharmacy Fifth Level Model MCQ Set 9",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which district of Nepal is located in the Terai region?",
+      "options": {
+        "A": "Manang",
+        "B": "Dolpa",
+        "C": "Jhapa",
+        "D": "Rasuwa"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which lake is located in Rara National Park?",
+      "options": {
+        "A": "Rara Lake",
+        "B": "Phewa Lake",
+        "C": "Begnas Lake",
+        "D": "Tilicho Lake"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which is a major source of hydroelectric power in Nepal?",
+      "options": {
+        "A": "Coal",
+        "B": "Natural gas",
+        "C": "Petroleum",
+        "D": "River water"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Which cultural heritage site is located in Lumbini?",
+      "options": {
+        "A": "Birthplace of Gautama Buddha",
+        "B": "Pashupatinath Temple",
+        "C": "Janaki Temple",
+        "D": "Muktinath Temple"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Which festival is commonly known as the festival of lights?",
+      "options": {
+        "A": "Dashain",
+        "B": "Tihar",
+        "C": "Buddha Jayanti",
+        "D": "Gaijatra"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Gross Domestic Product measures the value of:",
+      "options": {
+        "A": "Only imported goods",
+        "B": "Only government salaries",
+        "C": "Final goods and services produced within an economy",
+        "D": "Only agricultural products"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which activity is an example of environmental pollution?",
+      "options": {
+        "A": "Rainwater harvesting",
+        "B": "Plantation",
+        "C": "Waste recycling",
+        "D": "Discharge of untreated industrial waste"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Which disease is commonly caused by deficiency of vitamin C?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Night blindness",
+        "D": "Beriberi"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which institution is responsible for interpreting the Constitution of Nepal?",
+      "options": {
+        "A": "Federal Parliament",
+        "B": "Supreme Court",
+        "C": "National Planning Commission",
+        "D": "Election Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which UN agency is mainly concerned with education, science and culture?",
+      "options": {
+        "A": "UNESCO",
+        "B": "UNDP",
+        "C": "FAO",
+        "D": "ILO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "BIMSTEC connects countries mainly from:",
+      "options": {
+        "A": "Europe and Africa",
+        "B": "South Asia and Southeast Asia",
+        "C": "North America and Europe",
+        "D": "South America and Africa"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which office document normally contains the subject, reference and official message?",
+      "options": {
+        "A": "Official letter",
+        "B": "Stock card",
+        "C": "Attendance sheet",
+        "D": "Cash book"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Dispatch of a letter means:",
+      "options": {
+        "A": "Receiving a letter",
+        "B": "Classifying a file",
+        "C": "Sending an official communication",
+        "D": "Destroying a document"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Which filing system uses numbers to identify documents?",
+      "options": {
+        "A": "Subject filing",
+        "B": "Alphabetical filing",
+        "C": "Geographical filing",
+        "D": "Numerical filing"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "A note written for administrative decision-making should be:",
+      "options": {
+        "A": "Based on facts and relevant evidence",
+        "B": "Based on personal assumptions",
+        "C": "Unnecessarily emotional",
+        "D": "Without supporting documents"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Which office resource includes computers, furniture and stationery?",
+      "options": {
+        "A": "Human resources",
+        "B": "Physical resources",
+        "C": "Political resources",
+        "D": "Cultural resources"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Which communication method is most suitable for an urgent official message?",
+      "options": {
+        "A": "Old archived file",
+        "B": "Notice board only",
+        "C": "Telephone or electronic communication",
+        "D": "Annual report"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "The principle of unity of command means that an employee should receive orders from:",
+      "options": {
+        "A": "Many unrelated supervisors",
+        "B": "One immediate superior",
+        "C": "Only external organizations",
+        "D": "Any available employee"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which activity is part of supervision?",
+      "options": {
+        "A": "Guiding and monitoring employees",
+        "B": "Ignoring work performance",
+        "C": "Destroying records",
+        "D": "Avoiding responsibility"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which is an example of horizontal communication?",
+      "options": {
+        "A": "Minister communicating with a secretary",
+        "B": "Supervisor giving instructions to an assistant",
+        "C": "Communication between employees of the same level",
+        "D": "Citizen submitting an application"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Recruitment based on open competition mainly promotes:",
+      "options": {
+        "A": "Favoritism",
+        "B": "Merit",
+        "C": "Nepotism",
+        "D": "Personal influence"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Promotion generally means:",
+      "options": {
+        "A": "Movement to a higher position",
+        "B": "Temporary absence from duty",
+        "C": "Reduction of responsibility",
+        "D": "Termination of service"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Transfer refers to:",
+      "options": {
+        "A": "Permanent retirement",
+        "B": "Change of workplace or position according to rules",
+        "C": "Departmental punishment only",
+        "D": "Appointment through examination"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which action may be taken as departmental punishment for misconduct?",
+      "options": {
+        "A": "Automatic promotion",
+        "B": "Additional allowance",
+        "C": "Warning or other prescribed disciplinary action",
+        "D": "Award of a medal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "An employee’s official duty should primarily be guided by:",
+      "options": {
+        "A": "Personal benefit",
+        "B": "Political pressure",
+        "C": "Public interest and applicable laws",
+        "D": "Family preference"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Which constitutional body conducts elections in Nepal?",
+      "options": {
+        "A": "Election Commission",
+        "B": "Public Service Commission",
+        "C": "National Natural Resources and Fiscal Commission",
+        "D": "Commission for the Investigation of Abuse of Authority"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "The Commission for the Investigation of Abuse of Authority mainly investigates:",
+      "options": {
+        "A": "Natural disasters",
+        "B": "Corruption and abuse of authority",
+        "C": "Weather conditions",
+        "D": "School examinations"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which accounting book records cash receipts and payments?",
+      "options": {
+        "A": "Minute book",
+        "B": "Cash book",
+        "C": "Dispatch book",
+        "D": "Attendance book"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Internal control is mainly established to:",
+      "options": {
+        "A": "Prevent accountability",
+        "B": "Protect assets and reduce errors",
+        "C": "Increase fraud",
+        "D": "Avoid documentation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Transparency in public administration means:",
+      "options": {
+        "A": "Keeping every decision secret",
+        "B": "Making relevant information accessible",
+        "C": "Avoiding public explanation",
+        "D": "Preventing citizen participation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which activity is generally regulated under the Drug Act 2035?",
+      "options": {
+        "A": "Manufacture and sale of medicines",
+        "B": "Construction of highways",
+        "C": "Operation of airlines",
+        "D": "Management of schools"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "A drug manufacturing license is important because it:",
+      "options": {
+        "A": "Allows production without standards",
+        "B": "Provides legal authorization for manufacturing",
+        "C": "Removes the need for quality control",
+        "D": "Permits sale of expired products"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which information is essential on a medicine label?",
+      "options": {
+        "A": "Manufacturer and expiry information",
+        "B": "Only the colour of the package",
+        "C": "Only the shopkeeper’s name",
+        "D": "Only the transport vehicle number"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "A batch number is useful for:",
+      "options": {
+        "A": "Tracking a specific production batch",
+        "B": "Calculating employee salary",
+        "C": "Identifying a hospital bed",
+        "D": "Measuring rainfall"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which practice is inconsistent with pharmaceutical quality assurance?",
+      "options": {
+        "A": "Documented procedures",
+        "B": "Regular testing",
+        "C": "Uncontrolled changes in formulation",
+        "D": "Qualified personnel"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "The main purpose of quality control testing of medicines is to verify:",
+      "options": {
+        "A": "Identity, strength, purity and quality",
+        "B": "Advertising popularity",
+        "C": "Colour preference of consumers",
+        "D": "Profit earned by the supplier"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which pharmacopoeia is associated with standards used in the United States?",
+      "options": {
+        "A": "British Pharmacopoeia",
+        "B": "United States Pharmacopeia",
+        "C": "European Pharmacopoeia",
+        "D": "Japanese Pharmacopoeia"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "A prescription should be kept confidential because it contains:",
+      "options": {
+        "A": "Public weather data",
+        "B": "Private patient and treatment information",
+        "C": "Only general advertisements",
+        "D": "Only pharmacy stock information"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which route of administration places a medicine under the tongue?",
+      "options": {
+        "A": "Buccal",
+        "B": "Rectal",
+        "C": "Sublingual",
+        "D": "Intramuscular"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 40,
+      "question": "Which dosage form is usually prepared by compressing powders or granules?",
+      "options": {
+        "A": "Tablet",
+        "B": "Ointment",
+        "C": "Liniment",
+        "D": "Tincture"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "A syrup is generally a:",
+      "options": {
+        "A": "Concentrated aqueous preparation containing sugar or a sugar substitute",
+        "B": "Sterile injectable preparation",
+        "C": "Dry powder for inhalation only",
+        "D": "Semisolid preparation for the skin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which excipient helps prevent oxidation of susceptible ingredients?",
+      "options": {
+        "A": "Binder",
+        "B": "Antioxidant",
+        "C": "Disintegrant",
+        "D": "Glidant"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "A lubricant is added during tablet manufacture mainly to:",
+      "options": {
+        "A": "Improve flow and prevent sticking",
+        "B": "Increase microbial contamination",
+        "C": "Destroy the active ingredient",
+        "D": "Make the tablet completely insoluble"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which information should be explained during patient counseling?",
+      "options": {
+        "A": "Dose, route, frequency and precautions",
+        "B": "Only the medicine colour",
+        "C": "Only the manufacturer’s address",
+        "D": "Only the price of the medicine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Medication adherence means:",
+      "options": {
+        "A": "Taking medicines according to the agreed instructions",
+        "B": "Stopping medicines whenever symptoms improve",
+        "C": "Sharing medicines with relatives",
+        "D": "Changing the dose without advice"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which is an example of a medication error?",
+      "options": {
+        "A": "Correctly identifying the patient",
+        "B": "Giving a medicine to the wrong patient",
+        "C": "Checking the expiry date",
+        "D": "Explaining administration instructions"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "A national formulary is generally intended to provide:",
+      "options": {
+        "A": "Information and guidance about selected medicines",
+        "B": "A list of all government employees",
+        "C": "A record of office furniture",
+        "D": "A list of hospital buildings"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which approach supports rational prescribing?",
+      "options": {
+        "A": "Prescribing without diagnosis",
+        "B": "Selecting medicines based on clinical need and evidence",
+        "C": "Using multiple medicines unnecessarily",
+        "D": "Choosing medicines only by advertisement"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "For a suspected fracture, the injured part should generally be:",
+      "options": {
+        "A": "Massaged forcefully",
+        "B": "Moved repeatedly",
+        "C": "Immobilized",
+        "D": "Heated continuously"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Which sign may indicate shock?",
+      "options": {
+        "A": "Cold, pale and clammy skin",
+        "B": "Normal breathing and warm skin",
+        "C": "Increased appetite",
+        "D": "Improved alertness"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "The main purpose of oral rehydration solution is to:",
+      "options": {
+        "A": "Treat bacterial infection directly",
+        "B": "Replace water and electrolytes",
+        "C": "Reduce bone density",
+        "D": "Increase blood cholesterol"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Which intervention is a component of primary health care?",
+      "options": {
+        "A": "Health education",
+        "B": "Only organ transplantation",
+        "C": "Only intensive care",
+        "D": "Only cosmetic surgery"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Exclusive breastfeeding is generally recommended for approximately:",
+      "options": {
+        "A": "One month",
+        "B": "Three months",
+        "C": "Six months",
+        "D": "Two years without any complementary food"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Which mineral deficiency commonly causes iron-deficiency anemia?",
+      "options": {
+        "A": "Iron",
+        "B": "Sodium",
+        "C": "Chloride",
+        "D": "Iodine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "A balanced diet should contain:",
+      "options": {
+        "A": "Only carbohydrates",
+        "B": "Only proteins",
+        "C": "A suitable variety of nutrients",
+        "D": "Only fats"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "Which plant part is commonly used as a source of cinnamon drug?",
+      "options": {
+        "A": "Bark",
+        "B": "Flower",
+        "C": "Fruit pulp",
+        "D": "Root hair"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "The presence of foreign matter in herbal drugs is assessed during:",
+      "options": {
+        "A": "Quality control",
+        "B": "Patient counseling",
+        "C": "Budget preparation",
+        "D": "Drug prescribing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Soxhlet extraction is especially useful for:",
+      "options": {
+        "A": "Continuous extraction using a solvent",
+        "B": "Sterilizing glassware by dry heat",
+        "C": "Measuring blood pressure",
+        "D": "Counting microorganisms directly"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which factor is important when selecting an extraction solvent?",
+      "options": {
+        "A": "Solubility of the desired constituents",
+        "B": "Colour of the laboratory wall",
+        "C": "Number of office employees",
+        "D": "Size of the storage room only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "A primary standard should generally be:",
+      "options": {
+        "A": "Highly pure and stable",
+        "B": "Highly contaminated",
+        "C": "Extremely volatile",
+        "D": "Unknown in composition"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which glassware is commonly used to prepare an accurately measured standard solution?",
+      "options": {
+        "A": "Volumetric flask",
+        "B": "Evaporating dish",
+        "C": "Watch glass",
+        "D": "Mortar and pestle"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "The colour change of an indicator in titration should occur near the:",
+      "options": {
+        "A": "Boiling point",
+        "B": "Equivalence point",
+        "C": "Freezing point",
+        "D": "Melting point"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "A blank determination in analysis is performed to:",
+      "options": {
+        "A": "Identify the contribution of reagents or procedure",
+        "B": "Increase sample contamination",
+        "C": "Replace all standard solutions",
+        "D": "Avoid calculations"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which parameter is commonly used to express variability in a data set?",
+      "options": {
+        "A": "Standard deviation",
+        "B": "Mode of administration",
+        "C": "Expiry date",
+        "D": "Solvent front"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Drug distribution refers to the movement of a drug from blood to:",
+      "options": {
+        "A": "Body tissues",
+        "B": "Packaging material",
+        "C": "Storage shelves",
+        "D": "Manufacturing equipment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Drug excretion is most commonly carried out by the:",
+      "options": {
+        "A": "Kidneys",
+        "B": "Pancreas",
+        "C": "Thyroid gland",
+        "D": "Gallbladder only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "An antagonist generally:",
+      "options": {
+        "A": "Blocks or reduces the action of an agonist",
+        "B": "Always produces the maximum response",
+        "C": "Acts only as a preservative",
+        "D": "Has no interaction with receptors"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which organism is commonly used as an indicator of fecal contamination?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Saccharomyces cerevisiae",
+        "C": "Penicillium species",
+        "D": "Rhizopus species"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "ABC analysis of inventory is based mainly on:",
+      "options": {
+        "A": "Annual consumption value",
+        "B": "Medicine colour",
+        "C": "Dosage route only",
+        "D": "Supplier nationality"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Safety stock is maintained mainly to:",
+      "options": {
+        "A": "Cover unexpected demand or supply delays",
+        "B": "Increase expired medicines",
+        "C": "Avoid stock monitoring",
+        "D": "Replace all inventory records"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

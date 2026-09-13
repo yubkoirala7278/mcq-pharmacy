@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service - Pharmacy Group, Fifth Level - Practice Question Set 7",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which geographical region of Nepal generally has the highest population density?",
+      "options": {
+        "A": "Mountain region",
+        "B": "Terai region",
+        "C": "High Himalayan region",
+        "D": "Trans-Himalayan region"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which district is famous for the Janaki Temple?",
+      "options": {
+        "A": "Kaski",
+        "B": "Mustang",
+        "C": "Dhanusha",
+        "D": "Kailali"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which protected area is located in the far-western part of Nepal?",
+      "options": {
+        "A": "Khaptad National Park",
+        "B": "Makalu-Barun National Park",
+        "C": "Shivapuri-Nagarjun National Park",
+        "D": "Parsa National Park"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which traditional Nepali architecture is characterized by multiple roof levels?",
+      "options": {
+        "A": "Gothic style",
+        "B": "Dome style",
+        "C": "Pagoda style",
+        "D": "Roman style"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Remittance refers to:",
+      "options": {
+        "A": "Government tax collection",
+        "B": "Money sent by workers from abroad to their home country",
+        "C": "Domestic industrial investment only",
+        "D": "Foreign military assistance"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which institution is mainly responsible for formulating monetary policy in Nepal?",
+      "options": {
+        "A": "Nepal Rastra Bank",
+        "B": "National Planning Commission",
+        "C": "Department of Customs",
+        "D": "Office of the Auditor General"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Which gas is commonly associated with depletion of the ozone layer?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Chlorofluorocarbon",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which method is most appropriate for reducing household solid waste?",
+      "options": {
+        "A": "Open dumping",
+        "B": "Burning plastic in the open",
+        "C": "Mixing hazardous and biodegradable waste",
+        "D": "Segregation, reuse and recycling"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 9,
+      "question": "Which disease is commonly associated with iodine deficiency?",
+      "options": {
+        "A": "Scurvy",
+        "B": "Goiter",
+        "C": "Rickets",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which scientific instrument is used to observe very small objects using lenses?",
+      "options": {
+        "A": "Microscope",
+        "B": "Barometer",
+        "C": "Hygrometer",
+        "D": "Thermometer"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which part of the Constitution of Nepal deals with fundamental rights and duties?",
+      "options": {
+        "A": "Part 2",
+        "B": "Part 3",
+        "C": "Part 6",
+        "D": "Part 8"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which UN agency works mainly in the fields of education, science and culture?",
+      "options": {
+        "A": "FAO",
+        "B": "UNDP",
+        "C": "UNESCO",
+        "D": "UNHCR"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Which office activity involves deciding what work should be done first?",
+      "options": {
+        "A": "Prioritization",
+        "B": "Filing",
+        "C": "Dispatch",
+        "D": "Indexing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which filing system is most suitable when documents are arranged according to topics?",
+      "options": {
+        "A": "Numerical filing",
+        "B": "Subject filing",
+        "C": "Chronological filing",
+        "D": "Geographical filing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "What is the main purpose of an index in record management?",
+      "options": {
+        "A": "To destroy old records",
+        "B": "To increase the volume of files",
+        "C": "To locate information quickly",
+        "D": "To replace all original documents"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which document usually communicates a short official message within an organization?",
+      "options": {
+        "A": "Memo",
+        "B": "Treaty",
+        "C": "Budget speech",
+        "D": "Annual audit report"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Which is a major barrier to effective communication?",
+      "options": {
+        "A": "Clear language",
+        "B": "Active listening",
+        "C": "Feedback",
+        "D": "Ambiguous information"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Which activity is normally performed by a registry section?",
+      "options": {
+        "A": "Receiving and recording official correspondence",
+        "B": "Preparing pharmaceutical formulations",
+        "C": "Conducting surgical operations",
+        "D": "Issuing academic certificates"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Which management principle states that an employee should receive orders from one immediate superior?",
+      "options": {
+        "A": "Unity of direction",
+        "B": "Unity of command",
+        "C": "Division of work",
+        "D": "Scalar chain"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which management function ensures that suitable people are placed in suitable jobs?",
+      "options": {
+        "A": "Staffing",
+        "B": "Controlling",
+        "C": "Budgeting",
+        "D": "Auditing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which type of control is applied before an activity begins?",
+      "options": {
+        "A": "Feedback control",
+        "B": "Concurrent control",
+        "C": "Preventive control",
+        "D": "Post-control"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Which leadership quality helps a manager gain the confidence of employees?",
+      "options": {
+        "A": "Favoritism",
+        "B": "Inconsistency",
+        "C": "Dishonesty",
+        "D": "Fairness"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Which type of motivation comes from personal interest and satisfaction?",
+      "options": {
+        "A": "External motivation",
+        "B": "Intrinsic motivation",
+        "C": "Financial punishment",
+        "D": "Compulsory motivation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is an example of conflict of interest?",
+      "options": {
+        "A": "Following official procedures",
+        "B": "Maintaining attendance",
+        "C": "Taking an official decision for personal financial benefit",
+        "D": "Providing equal service"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which principle requires public services to be provided without unfair discrimination?",
+      "options": {
+        "A": "Equality",
+        "B": "Secrecy",
+        "C": "Centralization",
+        "D": "Favoritism"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which stage generally comes first in the recruitment process?",
+      "options": {
+        "A": "Promotion",
+        "B": "Advertisement of vacant positions",
+        "C": "Retirement",
+        "D": "Departmental punishment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Transfer in civil service generally means:",
+      "options": {
+        "A": "Permanent removal from employment",
+        "B": "Movement of an employee from one office or position to another",
+        "C": "Automatic promotion",
+        "D": "Termination without procedure"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which action is considered misconduct for a public employee?",
+      "options": {
+        "A": "Maintaining confidentiality",
+        "B": "Reporting to duty on time",
+        "C": "Misusing government property",
+        "D": "Following lawful instructions"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Which constitutional body recommends candidates for appointment to various civil service positions?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "Election Commission",
+        "C": "National Human Rights Commission",
+        "D": "Auditor General"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which document presents the estimated income and expenditure of the government for a fiscal year?",
+      "options": {
+        "A": "Audit certificate",
+        "B": "Government budget",
+        "C": "Office diary",
+        "D": "Public charter"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which authority is responsible for the administration and regulation of medicines in Nepal?",
+      "options": {
+        "A": "Department of Drug Administration",
+        "B": "Department of Agriculture",
+        "C": "Department of Transport",
+        "D": "Department of Tourism"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which activity is generally prohibited in relation to expired medicines?",
+      "options": {
+        "A": "Segregation",
+        "B": "Proper disposal",
+        "C": "Recording",
+        "D": "Sale for human use"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 33,
+      "question": "Which information should be checked when receiving a medicine consignment?",
+      "options": {
+        "A": "Batch number and expiry date",
+        "B": "Driver's favorite color",
+        "C": "Office decoration",
+        "D": "Patient's occupation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which term refers to the process of checking whether a medicine meets established standards?",
+      "options": {
+        "A": "Quality testing",
+        "B": "Public recruitment",
+        "C": "Budget allocation",
+        "D": "Office dispatch"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which condition may indicate poor quality of a pharmaceutical product?",
+      "options": {
+        "A": "Proper labeling",
+        "B": "Intact packaging",
+        "C": "Unexpected discoloration or change in appearance",
+        "D": "Valid expiry date"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Which practice is associated with Good Distribution Practice?",
+      "options": {
+        "A": "Maintaining suitable transport and storage conditions",
+        "B": "Mixing damaged products with good products",
+        "C": "Ignoring temperature records",
+        "D": "Removing batch details"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which document describes official tests for the quality of a pharmaceutical substance?",
+      "options": {
+        "A": "Pharmacopoeial monograph",
+        "B": "Attendance sheet",
+        "C": "Office circular",
+        "D": "Travel order"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which term describes the ability of a medicine to produce the intended therapeutic effect?",
+      "options": {
+        "A": "Stability",
+        "B": "Efficacy",
+        "C": "Solubility",
+        "D": "Viscosity"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which route of administration is commonly used for eye preparations?",
+      "options": {
+        "A": "Ophthalmic route",
+        "B": "Intramuscular route",
+        "C": "Rectal route",
+        "D": "Oral route"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which dosage form is prepared by compressing powdered ingredients into a solid unit?",
+      "options": {
+        "A": "Tablet",
+        "B": "Emulsion",
+        "C": "Elixir",
+        "D": "Liniment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which excipient helps bind powder particles together during tablet manufacture?",
+      "options": {
+        "A": "Binder",
+        "B": "Antifoaming agent",
+        "C": "Sweetener",
+        "D": "Flavoring agent"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Which pharmaceutical preparation contains two immiscible liquids, with one dispersed in the other?",
+      "options": {
+        "A": "Solution",
+        "B": "Emulsion",
+        "C": "Powder",
+        "D": "Suppository"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which information is most important when explaining an antibiotic course to a patient?",
+      "options": {
+        "A": "Complete the prescribed course unless advised otherwise",
+        "B": "Stop immediately when symptoms improve",
+        "C": "Share the medicine with family members",
+        "D": "Double the next dose after a missed dose"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which professional activity involves identifying possible medicine-related problems in a patient?",
+      "options": {
+        "A": "Pharmaceutical care",
+        "B": "Office filing",
+        "C": "Financial auditing",
+        "D": "Building maintenance"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which factor may reduce patient adherence to a treatment regimen?",
+      "options": {
+        "A": "Simple instructions",
+        "B": "Clear counseling",
+        "C": "Complex dosing schedule",
+        "D": "Accessible medicine supply"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 46,
+      "question": "Which term describes an unwanted effect that occurs in addition to the desired therapeutic effect?",
+      "options": {
+        "A": "Side effect",
+        "B": "Indication",
+        "C": "Contraindication",
+        "D": "Dose form"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which first-aid action is appropriate for a person who is unconscious but breathing normally?",
+      "options": {
+        "A": "Give oral medicine immediately",
+        "B": "Place in the recovery position and seek help",
+        "C": "Force the person to stand",
+        "D": "Give food and water"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Which measure helps prevent dehydration during mild diarrhea in children?",
+      "options": {
+        "A": "Oral rehydration solution",
+        "B": "Stopping all fluids",
+        "C": "Giving only carbonated drinks",
+        "D": "Avoiding medical advice"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Which intervention is important in reducing neonatal infection?",
+      "options": {
+        "A": "Unhygienic cord care",
+        "B": "Clean delivery and proper cord care",
+        "C": "Delaying breastfeeding unnecessarily",
+        "D": "Avoiding maternal health services"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Which primary health-care activity focuses on preventing disease before it occurs?",
+      "options": {
+        "A": "Rehabilitation",
+        "B": "Palliative care",
+        "C": "Disease prevention",
+        "D": "Specialized surgery"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Which method is used to separate volatile constituents from plant material by heating with water?",
+      "options": {
+        "A": "Steam distillation",
+        "B": "Maceration",
+        "C": "Percolation",
+        "D": "Infusion only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Which condition can promote fungal growth in stored crude drugs?",
+      "options": {
+        "A": "Low humidity",
+        "B": "Proper ventilation",
+        "C": "Excess moisture",
+        "D": "Suitable packaging"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Which part of a plant is commonly used as the source of cinnamon?",
+      "options": {
+        "A": "Root",
+        "B": "Bark",
+        "C": "Flower",
+        "D": "Seed"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Which type of analytical method is based on measuring the volume of a reagent required for a reaction?",
+      "options": {
+        "A": "Gravimetric analysis",
+        "B": "Titrimetric analysis",
+        "C": "Microscopic analysis",
+        "D": "Thermal analysis"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "What is the main purpose of rinsing a burette with the titrant before use?",
+      "options": {
+        "A": "To prevent dilution of the titrant by residual water",
+        "B": "To increase the volume of the sample",
+        "C": "To change the indicator color",
+        "D": "To sterilize the laboratory"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which wavelength region is commonly used for measuring many colored pharmaceutical compounds?",
+      "options": {
+        "A": "Visible region",
+        "B": "Microwave region",
+        "C": "Radio region",
+        "D": "Ultrasonic region"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Which factor can affect the movement of a compound in thin-layer chromatography?",
+      "options": {
+        "A": "Composition of the mobile phase",
+        "B": "Office lighting",
+        "C": "Patient weight",
+        "D": "Number of employees"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Which method is useful for determining the number of microorganisms in a sample?",
+      "options": {
+        "A": "Microbial count",
+        "B": "Acid-base titration",
+        "C": "UV scanning only",
+        "D": "Tablet friability testing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which term describes the movement of a drug from the site of administration into the bloodstream?",
+      "options": {
+        "A": "Distribution",
+        "B": "Absorption",
+        "C": "Metabolism",
+        "D": "Excretion"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Which pharmacological term describes the strength of a drug required to produce a particular effect?",
+      "options": {
+        "A": "Potency",
+        "B": "Stability",
+        "C": "Sterility",
+        "D": "Solubility"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which process converts many lipid-soluble drugs into more water-soluble substances?",
+      "options": {
+        "A": "Drug absorption",
+        "B": "Drug distribution",
+        "C": "Drug metabolism",
+        "D": "Drug administration"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Which type of microorganism lacks a true nucleus?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Protozoa",
+        "C": "Fungi",
+        "D": "Helminths"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Which test is commonly used to evaluate the sterility of a sterile pharmaceutical product?",
+      "options": {
+        "A": "Sterility test",
+        "B": "Friability test",
+        "C": "Disintegration test only",
+        "D": "Melting point test"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which substance is mainly responsible for fever-producing activity associated with pyrogens?",
+      "options": {
+        "A": "Endotoxin",
+        "B": "Glucose",
+        "C": "Starch",
+        "D": "Lactose"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Which inventory document records the quantity of medicines received and issued over time?",
+      "options": {
+        "A": "Stock card",
+        "B": "Prescription",
+        "C": "Patient history",
+        "D": "Leave record"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which stock level should normally not be exceeded during routine inventory planning?",
+      "options": {
+        "A": "Minimum stock level",
+        "B": "Maximum stock level",
+        "C": "Emergency stock level",
+        "D": "Zero stock level"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Which method issues the oldest received stock first?",
+      "options": {
+        "A": "LIFO",
+        "B": "FIFO",
+        "C": "VED",
+        "D": "ABC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which analysis classifies medicines as vital, essential and desirable?",
+      "options": {
+        "A": "ABC analysis",
+        "B": "FSN analysis",
+        "C": "VED analysis",
+        "D": "HML analysis"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Which condition is especially important for storing vaccines?",
+      "options": {
+        "A": "Maintaining the recommended cold-chain temperature",
+        "B": "Exposing them to direct sunlight",
+        "C": "Keeping them near heating equipment",
+        "D": "Storing them without temperature monitoring"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which action should be taken when a medicine is found damaged during stock inspection?",
+      "options": {
+        "A": "Mix it with usable stock",
+        "B": "Issue it immediately",
+        "C": "Separate it, record it and follow the disposal or return procedure",
+        "D": "Remove its batch number"
+      },
+      "correct_answer": "C"
+    }
+  ]
+}
