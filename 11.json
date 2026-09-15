@@ -1,0 +1,778 @@
+{
+  "title": "KMC Pharmacy Fifth Level Practice Set 10",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which mountain is the highest peak of Nepal?",
+      "options": {
+        "A": "Dhaulagiri",
+        "B": "Kanchenjunga",
+        "C": "Mount Everest",
+        "D": "Manaslu"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "Which river is known as the longest river of Nepal?",
+      "options": {
+        "A": "Karnali",
+        "B": "Bagmati",
+        "C": "Koshi",
+        "D": "Gandaki"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which place is famous as the birthplace of Lord Buddha?",
+      "options": {
+        "A": "Janakpur",
+        "B": "Lumbini",
+        "C": "Gorkha",
+        "D": "Pashupatinath"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which natural resource is mainly used for generating hydroelectricity?",
+      "options": {
+        "A": "Forest",
+        "B": "Coal",
+        "C": "Natural gas",
+        "D": "Water"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 5,
+      "question": "Which festival is commonly known as the festival of lights in Nepal?",
+      "options": {
+        "A": "Tihar",
+        "B": "Dashain",
+        "C": "Holi",
+        "D": "Teej"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which indicator measures the total value of goods and services produced within a country?",
+      "options": {
+        "A": "CPI",
+        "B": "GDP",
+        "C": "HDI",
+        "D": "GNP"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which gas is mainly responsible for ozone layer depletion?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Chlorofluorocarbon"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Which vitamin is essential for normal blood clotting?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin K",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Which organ is responsible for interpreting the Constitution of Nepal?",
+      "options": {
+        "A": "Supreme Court",
+        "B": "Federal Parliament",
+        "C": "Council of Ministers",
+        "D": "National Assembly"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which organization is primarily concerned with international public health?",
+      "options": {
+        "A": "UNESCO",
+        "B": "UNICEF",
+        "C": "WHO",
+        "D": "ILO"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Which regional organization includes Nepal, India, Bhutan, Bangladesh, Sri Lanka, Maldives, Pakistan and Afghanistan?",
+      "options": {
+        "A": "ASEAN",
+        "B": "SAARC",
+        "C": "European Union",
+        "D": "BIMSTEC"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which document is generally used to communicate official decisions within an office?",
+      "options": {
+        "A": "Diary",
+        "B": "Receipt",
+        "C": "Invoice",
+        "D": "Office order"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "The process of entering received letters into an official register is called:",
+      "options": {
+        "A": "Registration",
+        "B": "Dispatch",
+        "C": "Filing",
+        "D": "Indexing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which filing method arranges documents according to names?",
+      "options": {
+        "A": "Numerical filing",
+        "B": "Geographical filing",
+        "C": "Alphabetical filing",
+        "D": "Subject filing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "A written explanation prepared by an office employee to support a decision is called:",
+      "options": {
+        "A": "Circular",
+        "B": "Note",
+        "C": "Notice",
+        "D": "Receipt"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is an example of an office human resource?",
+      "options": {
+        "A": "Computer",
+        "B": "Furniture",
+        "C": "Building",
+        "D": "Office assistant"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 17,
+      "question": "Communication between employees working at the same organizational level is called:",
+      "options": {
+        "A": "Horizontal communication",
+        "B": "Downward communication",
+        "C": "Upward communication",
+        "D": "External communication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which quality is most important for an office assistant?",
+      "options": {
+        "A": "Carelessness",
+        "B": "Dishonesty",
+        "C": "Confidentiality",
+        "D": "Delay"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Recruitment based on qualification and competition is known as:",
+      "options": {
+        "A": "Political recruitment",
+        "B": "Merit-based recruitment",
+        "C": "Personal recruitment",
+        "D": "Temporary recruitment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Movement of a civil servant from one office to another is called:",
+      "options": {
+        "A": "Promotion",
+        "B": "Retirement",
+        "C": "Appointment",
+        "D": "Transfer"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "An increase in position and responsibility within an organization is called:",
+      "options": {
+        "A": "Promotion",
+        "B": "Leave",
+        "C": "Transfer",
+        "D": "Suspension"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which action is generally considered a departmental punishment?",
+      "options": {
+        "A": "Training",
+        "B": "Promotion",
+        "C": "Warning",
+        "D": "Recognition"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Which body is responsible for conducting public service examinations in Nepal?",
+      "options": {
+        "A": "Public Accounts Committee",
+        "B": "Public Service Commission",
+        "C": "National Planning Commission",
+        "D": "Election Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which constitutional body investigates corruption-related complaints?",
+      "options": {
+        "A": "Office of the Auditor General",
+        "B": "Public Service Commission",
+        "C": "National Human Rights Commission",
+        "D": "Commission for the Investigation of Abuse of Authority"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "The main purpose of an audit is to:",
+      "options": {
+        "A": "Increase office furniture",
+        "B": "Recruit employees",
+        "C": "Examine financial accuracy and compliance",
+        "D": "Prepare attendance"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Which book records cash receipts and cash payments?",
+      "options": {
+        "A": "Cash book",
+        "B": "Stock book",
+        "C": "Minute book",
+        "D": "Dispatch book"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "The right to obtain information held by public bodies is called:",
+      "options": {
+        "A": "Right to property",
+        "B": "Right to information",
+        "C": "Right to employment",
+        "D": "Right to privacy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Which principle requires public officials to be answerable for their decisions?",
+      "options": {
+        "A": "Secrecy",
+        "B": "Favoritism",
+        "C": "Accountability",
+        "D": "Centralization"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "A public charter mainly informs citizens about:",
+      "options": {
+        "A": "Office decoration",
+        "B": "Employee salaries",
+        "C": "Political party rules",
+        "D": "Services, procedures and time limits"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 30,
+      "question": "The process of bringing different activities together toward a common goal is called:",
+      "options": {
+        "A": "Coordination",
+        "B": "Delegation",
+        "C": "Recruitment",
+        "D": "Inspection"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "The Drug Act of Nepal was enacted in which year in Bikram Sambat?",
+      "options": {
+        "A": "2028",
+        "B": "2035",
+        "C": "2041",
+        "D": "2050"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "The main objective of drug legislation is to ensure:",
+      "options": {
+        "A": "Higher advertising cost",
+        "B": "Unlimited drug sales",
+        "C": "Safety, efficacy and quality of drugs",
+        "D": "Only foreign drug production"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Which authority is primarily associated with regulation of medicines in Nepal?",
+      "options": {
+        "A": "Department of Drug Administration",
+        "B": "Department of Roads",
+        "C": "Department of Tourism",
+        "D": "Department of Agriculture only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "A document showing the identity of a particular production quantity of a medicine is called:",
+      "options": {
+        "A": "Prescription",
+        "B": "Invoice",
+        "C": "Batch record",
+        "D": "Public charter"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Which activity is part of quality assurance?",
+      "options": {
+        "A": "Only final product testing",
+        "B": "Planned system ensuring consistent quality",
+        "C": "Increasing product price",
+        "D": "Advertising medicines"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Which pharmacopoeia is widely used as an official standard for medicines?",
+      "options": {
+        "A": "Oxford Dictionary",
+        "B": "WHO Constitution",
+        "C": "British Pharmacopoeia",
+        "D": "Civil Service Manual"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "National Drug Policy mainly focuses on:",
+      "options": {
+        "A": "Safe, effective, affordable and rational drug use",
+        "B": "Tourism development",
+        "C": "Road construction",
+        "D": "Industrial taxation only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "A prescription is primarily a written instruction from a:",
+      "options": {
+        "A": "Patient",
+        "B": "Pharmacist only",
+        "C": "Authorized prescriber",
+        "D": "Storekeeper"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Which information is essential for identifying a patient on a prescription?",
+      "options": {
+        "A": "Patient's favorite color",
+        "B": "Patient's name and relevant identification details",
+        "C": "Pharmacy wall number",
+        "D": "Supplier's vehicle number"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "A drug interaction occurs when:",
+      "options": {
+        "A": "A medicine changes the effect of another substance",
+        "B": "A tablet is packed in a box",
+        "C": "A prescription is filed",
+        "D": "A patient drinks water"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which route delivers a medicine through the skin for systemic effect?",
+      "options": {
+        "A": "Oral",
+        "B": "Rectal",
+        "C": "Topical only",
+        "D": "Transdermal"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 42,
+      "question": "Which dosage form is prepared by compressing powdered ingredients?",
+      "options": {
+        "A": "Tablet",
+        "B": "Elixir",
+        "C": "Ointment",
+        "D": "Suppository"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which dosage form is intended to be applied to the skin and usually contains a semisolid base?",
+      "options": {
+        "A": "Injection",
+        "B": "Ointment",
+        "C": "Syrup",
+        "D": "Capsule"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Which additive prevents oxidation of pharmaceutical ingredients?",
+      "options": {
+        "A": "Binder",
+        "B": "Sweetener",
+        "C": "Antioxidant",
+        "D": "Disintegrant"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Which additive helps a tablet break apart after administration?",
+      "options": {
+        "A": "Disintegrant",
+        "B": "Colorant",
+        "C": "Flavoring agent",
+        "D": "Preservative"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "The main purpose of patient counseling is to:",
+      "options": {
+        "A": "Increase medicine price",
+        "B": "Improve safe and effective medicine use",
+        "C": "Replace diagnosis",
+        "D": "Avoid communication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "A hospital formulary is a list of:",
+      "options": {
+        "A": "Hospital visitors",
+        "B": "Hospital vehicles",
+        "C": "Approved medicines for use in a hospital",
+        "D": "All diseases in a country"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Rational drug use means that patients receive medicines:",
+      "options": {
+        "A": "Only in expensive brands",
+        "B": "Without diagnosis",
+        "C": "In correct doses and for appropriate durations",
+        "D": "Only by injection"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a common sign of hypoglycemia?",
+      "options": {
+        "A": "Sweating and tremor",
+        "B": "Blue skin from birth",
+        "C": "Permanent blindness",
+        "D": "Bone fracture"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "The first step in first aid for an unconscious person is to:",
+      "options": {
+        "A": "Give oral medicine immediately",
+        "B": "Check responsiveness and breathing",
+        "C": "Make the person walk",
+        "D": "Give solid food"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Which solution is commonly used to prevent dehydration due to diarrhea?",
+      "options": {
+        "A": "Normal saline for drinking only",
+        "B": "Oral rehydration solution",
+        "C": "Concentrated glucose powder",
+        "D": "Distilled alcohol"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Primary health care emphasizes:",
+      "options": {
+        "A": "Only specialized surgery",
+        "B": "Only urban hospitals",
+        "C": "Essential health care accessible to all",
+        "D": "Treatment without prevention"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Antenatal care is provided during:",
+      "options": {
+        "A": "Pregnancy",
+        "B": "Childhood only",
+        "C": "Old age",
+        "D": "Postoperative recovery"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Which nutrient is especially important for preventing neural tube defects during pregnancy?",
+      "options": {
+        "A": "Vitamin E",
+        "B": "Folic acid",
+        "C": "Vitamin K",
+        "D": "Fluoride"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "The main purpose of immunization is to:",
+      "options": {
+        "A": "Cause infection",
+        "B": "Reduce body temperature",
+        "C": "Stimulate protective immunity",
+        "D": "Increase blood pressure"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "Which part of a medicinal plant usually contains the bark drug cinnamon?",
+      "options": {
+        "A": "Root",
+        "B": "Leaf",
+        "C": "Flower",
+        "D": "Stem bark"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 57,
+      "question": "Removal of unwanted materials from crude drugs is called:",
+      "options": {
+        "A": "Garbling",
+        "B": "Fermentation",
+        "C": "Distillation",
+        "D": "Trituration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "The process of removing moisture from crude drugs is called:",
+      "options": {
+        "A": "Extraction",
+        "B": "Drying",
+        "C": "Percolation",
+        "D": "Isolation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Which apparatus is commonly used for continuous hot extraction?",
+      "options": {
+        "A": "Soxhlet apparatus",
+        "B": "Burette",
+        "C": "Desiccator only",
+        "D": "Colorimeter"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "A standard solution is a solution whose:",
+      "options": {
+        "A": "Color is unknown",
+        "B": "Concentration is accurately known",
+        "C": "Volume is always zero",
+        "D": "Temperature is always boiling"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Which instrument is commonly used to deliver an accurately measured variable volume during titration?",
+      "options": {
+        "A": "Beaker",
+        "B": "Burette",
+        "C": "Evaporating dish",
+        "D": "Watch glass"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "The point at which an indicator changes color during titration is called:",
+      "options": {
+        "A": "Freezing point",
+        "B": "Boiling point",
+        "C": "Endpoint",
+        "D": "Melting point"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Which technique separates compounds based on their different movement between stationary and mobile phases?",
+      "options": {
+        "A": "Chromatography",
+        "B": "Filtration",
+        "C": "Decantation",
+        "D": "Centrifugation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "UV-visible spectroscopy mainly measures the absorption of:",
+      "options": {
+        "A": "Sound waves",
+        "B": "Electromagnetic radiation",
+        "C": "Mechanical pressure",
+        "D": "Heat only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Pharmacokinetics describes:",
+      "options": {
+        "A": "What the drug does to the body",
+        "B": "What the body does to the drug",
+        "C": "Only drug manufacturing",
+        "D": "Only drug packaging"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "A drug that binds to a receptor and produces a response is called:",
+      "options": {
+        "A": "Agonist",
+        "B": "Antagonist",
+        "C": "Inhibitor only",
+        "D": "Placebo"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which test is used to detect fever-producing substances in parenteral preparations?",
+      "options": {
+        "A": "Disintegration test",
+        "B": "Pyrogen test",
+        "C": "Friability test",
+        "D": "Hardness test"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Which microorganism is commonly used as an indicator of fecal contamination?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Saccharomyces cerevisiae",
+        "C": "Penicillium species",
+        "D": "Lactobacillus species"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "In inventory control, ABC analysis classifies items according to:",
+      "options": {
+        "A": "Color",
+        "B": "Dosage form",
+        "C": "Annual consumption value",
+        "D": "Manufacturer's country"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 70,
+      "question": "Which storage practice is most appropriate for medicines?",
+      "options": {
+        "A": "Store all medicines in direct sunlight",
+        "B": "Keep medicines without labels",
+        "C": "Mix expired and usable stock",
+        "D": "Maintain suitable temperature, humidity and security"
+      },
+      "correct_answer": "D"
+    }
+  ]
+}
