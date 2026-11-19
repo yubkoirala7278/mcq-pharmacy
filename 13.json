@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 2",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the highest mountain in Nepal?",
+      "options": {
+        "A": "Dhaulagiri",
+        "B": "Mount Everest",
+        "C": "Kanchenjunga",
+        "D": "Manaslu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which part of the Constitution of Nepal contains the Fundamental Rights?",
+      "options": {
+        "A": "Part 3",
+        "B": "Part 2",
+        "C": "Part 4",
+        "D": "Part 5"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "The Drug Act of Nepal was enacted in which year?",
+      "options": {
+        "A": "2037 B.S.",
+        "B": "2040 B.S.",
+        "C": "2035 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "What is the primary purpose of the Drug Act, 2035?",
+      "options": {
+        "A": "To regulate hospitals only",
+        "B": "To ensure the quality, safety and effectiveness of drugs",
+        "C": "To recruit health workers",
+        "D": "To establish medical colleges"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "What does ADR stand for in pharmacy?",
+      "options": {
+        "A": "Additional Drug Regulation",
+        "B": "Adverse Drug Reaction",
+        "C": "Approved Drug Requirement",
+        "D": "Active Drug Response"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Which branch of pharmacology deals with what the body does to a drug?",
+      "options": {
+        "A": "Pharmacodynamics",
+        "B": "Pharmacognosy",
+        "C": "Pharmacokinetics",
+        "D": "Toxicology"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Which branch of pharmacology deals with what a drug does to the body?",
+      "options": {
+        "A": "Pharmacokinetics",
+        "B": "Pharmacodynamics",
+        "C": "Pharmaceutics",
+        "D": "Pharmacognosy"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a major component of pharmacokinetics?",
+      "options": {
+        "A": "Absorption",
+        "B": "Diagnosis",
+        "C": "Immunization",
+        "D": "Prescription writing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which organ is the major site of drug metabolism?",
+      "options": {
+        "A": "Heart",
+        "B": "Liver",
+        "C": "Spleen",
+        "D": "Lung"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which process removes drugs from the body?",
+      "options": {
+        "A": "Distribution",
+        "B": "Absorption",
+        "C": "Excretion",
+        "D": "Dissolution"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "What does FEFO stand for?",
+      "options": {
+        "A": "First Entered, First Out",
+        "B": "First Expired, First Out",
+        "C": "Fast Expiry, Fast Output",
+        "D": "First Evaluated, First Ordered"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "What is the main purpose of FEFO in drug inventory management?",
+      "options": {
+        "A": "To use the most expensive drugs first",
+        "B": "To use drugs with the earliest expiry first",
+        "C": "To store all drugs together",
+        "D": "To purchase drugs without checking expiry"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Essential medicines are medicines that:",
+      "options": {
+        "A": "Are always expensive",
+        "B": "Meet the priority healthcare needs of the population",
+        "C": "Are used only in intensive care units",
+        "D": "Are imported from foreign countries"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which is a major principle of Primary Health Care?",
+      "options": {
+        "A": "Community participation",
+        "B": "Exclusive use of specialist hospitals",
+        "C": "Use of expensive technology only",
+        "D": "Treatment of only emergency cases"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "What is the main purpose of first aid?",
+      "options": {
+        "A": "To provide complete medical treatment",
+        "B": "To provide immediate assistance until further medical care is available",
+        "C": "To replace a physician",
+        "D": "To prescribe long-term medication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "What should generally be done first for a minor thermal burn?",
+      "options": {
+        "A": "Apply butter",
+        "B": "Break the blisters",
+        "C": "Cool the affected area with clean running water",
+        "D": "Apply ice directly for a long time"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which factor is important for maintaining the quality of herbal drugs?",
+      "options": {
+        "A": "Proper identification and storage",
+        "B": "Storage in a humid place",
+        "C": "Exposure to direct sunlight",
+        "D": "Removal of labels"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "The process of obtaining active constituents from a crude drug is called:",
+      "options": {
+        "A": "Sterilization",
+        "B": "Extraction",
+        "C": "Titration",
+        "D": "Filtration"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Acid-base titration is based primarily on:",
+      "options": {
+        "A": "Neutralization reaction",
+        "B": "Oxidation only",
+        "C": "Precipitation only",
+        "D": "Fermentation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which instrument is commonly used to measure absorbance in UV-Visible spectroscopy?",
+      "options": {
+        "A": "Microscope",
+        "B": "UV-Visible spectrophotometer",
+        "C": "Centrifuge",
+        "D": "Autoclave"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Which stationary phase is commonly used in Thin Layer Chromatography?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Silica gel",
+        "C": "Distilled water",
+        "D": "Oxygen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "The main purpose of chromatography is to:",
+      "options": {
+        "A": "Sterilize drugs",
+        "B": "Separate components of a mixture",
+        "C": "Increase drug expiry",
+        "D": "Determine patient age"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Microbiological assay of antibiotics is mainly used to determine:",
+      "options": {
+        "A": "Color",
+        "B": "Potency",
+        "C": "Packaging size",
+        "D": "Taste"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "The purpose of a sterility test is to determine whether a product:",
+      "options": {
+        "A": "Contains viable microorganisms",
+        "B": "Has the correct color",
+        "C": "Has the correct price",
+        "D": "Contains sufficient sugar"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Pyrogens are substances that can:",
+      "options": {
+        "A": "Cause fever",
+        "B": "Reduce blood pressure only",
+        "C": "Act as antibiotics",
+        "D": "Improve taste"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Immunology is the study of:",
+      "options": {
+        "A": "The immune system",
+        "B": "Drug pricing",
+        "C": "Hospital accounting",
+        "D": "Drug packaging"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which is an important role of a hospital pharmacist?",
+      "options": {
+        "A": "Ensuring safe and rational use of medicines",
+        "B": "Performing surgery",
+        "C": "Constructing hospital buildings",
+        "D": "Managing traffic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "The primary purpose of patient counseling is to:",
+      "options": {
+        "A": "Increase the price of medicines",
+        "B": "Help patients use medicines correctly and safely",
+        "C": "Replace diagnosis by a doctor",
+        "D": "Promote unnecessary medicines"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "What is a hospital formulary?",
+      "options": {
+        "A": "A list of medicines approved for use in a hospital",
+        "B": "A list of hospital employees",
+        "C": "A hospital construction plan",
+        "D": "A list of patients"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Rational use of medicines means:",
+      "options": {
+        "A": "Using the most expensive medicine",
+        "B": "Using appropriate medicines in the correct dose, duration and manner",
+        "C": "Using antibiotics for every infection",
+        "D": "Using medicines without prescription"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which dosage form is a solid pharmaceutical preparation?",
+      "options": {
+        "A": "Syrup",
+        "B": "Tablet",
+        "C": "Elixir",
+        "D": "Solution"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a liquid dosage form?",
+      "options": {
+        "A": "Tablet",
+        "B": "Capsule",
+        "C": "Syrup",
+        "D": "Powder"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "What is the main function of a pharmaceutical preservative?",
+      "options": {
+        "A": "To prevent or inhibit microbial growth",
+        "B": "To increase toxicity",
+        "C": "To remove the active ingredient",
+        "D": "To reduce shelf life"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Pharmaceutical additives may be used to:",
+      "options": {
+        "A": "Improve stability, appearance, taste or preservation",
+        "B": "Destroy the active ingredient",
+        "C": "Make every medicine toxic",
+        "D": "Remove the dosage form"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which route of administration involves giving a drug through a vein?",
+      "options": {
+        "A": "Intramuscular",
+        "B": "Oral",
+        "C": "Intravenous",
+        "D": "Topical"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Which route involves administration of a medicine through the mouth?",
+      "options": {
+        "A": "Oral",
+        "B": "Intravenous",
+        "C": "Intramuscular",
+        "D": "Subcutaneous"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "What should a pharmacist check first when dispensing a prescription?",
+      "options": {
+        "A": "The patient's clothing",
+        "B": "The validity and completeness of the prescription",
+        "C": "The color of the pharmacy",
+        "D": "The advertisement of the medicine"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "A drug interaction occurs when:",
+      "options": {
+        "A": "One drug alters the effect of another drug",
+        "B": "A drug changes its package",
+        "C": "A drug changes its color",
+        "D": "A drug is given a new brand name"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is NOT a component of ADME?",
+      "options": {
+        "A": "Absorption",
+        "B": "Distribution",
+        "C": "Metabolism",
+        "D": "Diagnosis"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 40,
+      "question": "The movement of a drug from the site of administration into the bloodstream is called:",
+      "options": {
+        "A": "Absorption",
+        "B": "Excretion",
+        "C": "Metabolism",
+        "D": "Elimination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "The Drug Registration Regulation of Nepal was issued in:",
+      "options": {
+        "A": "2035 B.S.",
+        "B": "2037 B.S.",
+        "C": "2038 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "The Drug Inquiry and Inspection Regulation was issued in:",
+      "options": {
+        "A": "2040 B.S.",
+        "B": "2038 B.S.",
+        "C": "2041 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "The Drug Standard Regulation was issued in:",
+      "options": {
+        "A": "2037 B.S.",
+        "B": "2041 B.S.",
+        "C": "2043 B.S.",
+        "D": "2038 B.S."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "The Drug Manufacturing Code of Nepal was issued in:",
+      "options": {
+        "A": "2041 B.S.",
+        "B": "2043 B.S.",
+        "C": "2038 B.S.",
+        "D": "2040 B.S."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "What is the main purpose of a pharmacopoeia?",
+      "options": {
+        "A": "To provide official standards for drugs and pharmaceutical substances",
+        "B": "To advertise medicines",
+        "C": "To recruit pharmacists",
+        "D": "To determine hospital salaries"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is an important function of an office?",
+      "options": {
+        "A": "Receiving, processing and communicating information",
+        "B": "Manufacturing all medicines",
+        "C": "Providing surgery",
+        "D": "Producing electricity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "The process of officially recording incoming correspondence is called:",
+      "options": {
+        "A": "Dispatch",
+        "B": "Registration",
+        "C": "Filing",
+        "D": "Circular"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "The process of sending official correspondence from an office is called:",
+      "options": {
+        "A": "Registration",
+        "B": "Dispatch",
+        "C": "Filing",
+        "D": "Indexing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "What is the main purpose of filing?",
+      "options": {
+        "A": "To destroy records",
+        "B": "To arrange and preserve documents for easy retrieval",
+        "C": "To increase paperwork",
+        "D": "To delay office work"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "A circular is generally used to:",
+      "options": {
+        "A": "Communicate common information or instructions to multiple concerned persons or offices",
+        "B": "Issue a personal invitation",
+        "C": "Record a patient's medical history",
+        "D": "Prepare a drug formulation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "What is the main purpose of record management?",
+      "options": {
+        "A": "To protect and organize records for future use",
+        "B": "To destroy all old records immediately",
+        "C": "To avoid documentation",
+        "D": "To increase office expenses"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Good governance generally includes:",
+      "options": {
+        "A": "Transparency and accountability",
+        "B": "Secrecy and discrimination",
+        "C": "Delay and corruption",
+        "D": "Lack of responsibility"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "The Right to Information primarily aims to:",
+      "options": {
+        "A": "Ensure citizens' access to information held by public bodies, subject to law",
+        "B": "Keep all government information secret",
+        "C": "Prevent public participation",
+        "D": "Increase taxation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "The main purpose of a Public Charter is to inform citizens about:",
+      "options": {
+        "A": "Services, procedures, time, fees and responsible officials",
+        "B": "Political party membership",
+        "C": "Private company profits",
+        "D": "Personal medical records"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Which is a basic function of management?",
+      "options": {
+        "A": "Planning",
+        "B": "Pollution",
+        "C": "Prescription",
+        "D": "Pathology"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Coordination means:",
+      "options": {
+        "A": "Creating harmony among different activities and people",
+        "B": "Stopping all activities",
+        "C": "Removing all employees",
+        "D": "Avoiding communication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Leadership primarily involves:",
+      "options": {
+        "A": "Guiding and motivating people toward a common goal",
+        "B": "Avoiding decision-making",
+        "C": "Stopping teamwork",
+        "D": "Ignoring employees"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is an important quality of a public servant?",
+      "options": {
+        "A": "Integrity",
+        "B": "Dishonesty",
+        "C": "Discrimination",
+        "D": "Negligence"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "How many levels of government are there in Nepal according to the Constitution?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Which of the following are local levels of government in Nepal?",
+      "options": {
+        "A": "Municipalities and rural municipalities",
+        "B": "Ministries only",
+        "C": "Provincial assemblies only",
+        "D": "District administration offices only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Where is the headquarters of SAARC located?",
+      "options": {
+        "A": "Dhaka",
+        "B": "New Delhi",
+        "C": "Kathmandu",
+        "D": "Colombo"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "What does BIMSTEC stand for?",
+      "options": {
+        "A": "Bay of International Maritime States Trade and Economic Council",
+        "B": "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+        "C": "Bilateral Initiative for Maritime Science and Technology Cooperation",
+        "D": "Bay International Management System for Trade and Economic Cooperation"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "In which year was the United Nations established?",
+      "options": {
+        "A": "1939",
+        "B": "1945",
+        "C": "1947",
+        "D": "1950"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Where is the headquarters of the World Health Organization located?",
+      "options": {
+        "A": "New York",
+        "B": "Paris",
+        "C": "Geneva",
+        "D": "London"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 65,
+      "question": "What is the basic concept of sustainable development?",
+      "options": {
+        "A": "Meeting present needs without compromising the ability of future generations to meet their needs",
+        "B": "Using natural resources without limits",
+        "C": "Focusing only on economic growth",
+        "D": "Ignoring environmental protection"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Biodiversity refers to:",
+      "options": {
+        "A": "The variety of living organisms and ecosystems",
+        "B": "Only the number of animals",
+        "C": "Only the number of plants",
+        "D": "Only human population"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Air pollution can significantly increase the risk of:",
+      "options": {
+        "A": "Respiratory diseases",
+        "B": "Improved lung function",
+        "C": "Increased biodiversity",
+        "D": "Improved air quality"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "A balanced diet is one that:",
+      "options": {
+        "A": "Contains only carbohydrates",
+        "B": "Contains appropriate amounts of essential nutrients",
+        "C": "Contains only proteins",
+        "D": "Contains only vitamins"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Inappropriate use of antibiotics can lead to:",
+      "options": {
+        "A": "Antimicrobial resistance",
+        "B": "Improved antibiotic effectiveness",
+        "C": "Reduced resistance in bacteria",
+        "D": "Improved nutritional status"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "What is the main objective of drug inventory management?",
+      "options": {
+        "A": "To maintain adequate stock while minimizing stock-outs, expiry and wastage",
+        "B": "To keep the maximum possible quantity of every drug",
+        "C": "To distribute expired medicines",
+        "D": "To ignore consumption patterns"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
