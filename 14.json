@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 3",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which province of Nepal has the largest area?",
+      "options": {
+        "A": "Gandaki Province",
+        "B": "Karnali Province",
+        "C": "Koshi Province",
+        "D": "Sudurpashchim Province"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which is the longest river in Nepal?",
+      "options": {
+        "A": "Karnali River",
+        "B": "Koshi River",
+        "C": "Gandaki River",
+        "D": "Bagmati River"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which is the largest lake in Nepal by area?",
+      "options": {
+        "A": "Rara Lake",
+        "B": "Phewa Lake",
+        "C": "Tilicho Lake",
+        "D": "Begnas Lake"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Which national park is famous for one-horned rhinoceros conservation?",
+      "options": {
+        "A": "Sagarmatha National Park",
+        "B": "Chitwan National Park",
+        "C": "Langtang National Park",
+        "D": "Rara National Park"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which natural resource is considered a major source of renewable energy in Nepal?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Hydropower",
+        "D": "Natural gas"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which day is observed as World Health Day?",
+      "options": {
+        "A": "April 7",
+        "B": "May 31",
+        "C": "June 5",
+        "D": "December 1"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "World Health Organization was established in:",
+      "options": {
+        "A": "1945",
+        "B": "1946",
+        "C": "1948",
+        "D": "1950"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Which nutrient is primarily responsible for body building and tissue repair?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Protein",
+        "C": "Vitamin",
+        "D": "Water"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Deficiency of vitamin C causes:",
+      "options": {
+        "A": "Rickets",
+        "B": "Scurvy",
+        "C": "Night blindness",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Deficiency of vitamin D in children can cause:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Pellagra",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which greenhouse gas is a major contributor to global warming?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Hydrogen"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of biodiversity?",
+      "options": {
+        "A": "Variety of plants, animals and microorganisms",
+        "B": "Only the number of humans",
+        "C": "Only forest area",
+        "D": "Only agricultural land"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "How many levels of government are constitutionally recognized in Nepal?",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which institution is responsible for conducting civil service examinations in Nepal?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "National Planning Commission",
+        "C": "Office of the Auditor General",
+        "D": "Ministry of Finance"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Which constitutional body audits government accounts in Nepal?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "Election Commission",
+        "C": "Office of the Auditor General",
+        "D": "National Human Rights Commission"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 16,
+      "question": "Which body conducts elections in Nepal?",
+      "options": {
+        "A": "Election Commission",
+        "B": "Public Service Commission",
+        "C": "National Planning Commission",
+        "D": "Office of the Prime Minister"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "What is the main purpose of a government budget?",
+      "options": {
+        "A": "To plan government revenue and expenditure",
+        "B": "To appoint judges",
+        "C": "To conduct elections",
+        "D": "To issue passports only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which principle is essential for public service delivery?",
+      "options": {
+        "A": "Accountability",
+        "B": "Discrimination",
+        "C": "Secrecy in all matters",
+        "D": "Favoritism"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "The main purpose of delegation of authority is to:",
+      "options": {
+        "A": "Distribute responsibility and authority for efficient work",
+        "B": "Eliminate all supervision",
+        "C": "Avoid accountability",
+        "D": "Increase unnecessary paperwork"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which is an important element of effective communication?",
+      "options": {
+        "A": "Clarity",
+        "B": "Ambiguity",
+        "C": "Delay",
+        "D": "Distortion"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "What is the primary function of office records?",
+      "options": {
+        "A": "To provide evidence and information for future reference",
+        "B": "To increase office storage costs",
+        "C": "To replace all communication",
+        "D": "To prevent decision-making"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Which filing system arranges documents according to names?",
+      "options": {
+        "A": "Numerical filing",
+        "B": "Alphabetical filing",
+        "C": "Geographical filing",
+        "D": "Subject filing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Which is an essential quality of a public servant?",
+      "options": {
+        "A": "Integrity",
+        "B": "Partiality",
+        "C": "Negligence",
+        "D": "Dishonesty"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "What does the principle of accountability mean?",
+      "options": {
+        "A": "Being responsible for decisions and actions",
+        "B": "Avoiding responsibility",
+        "C": "Keeping all decisions secret",
+        "D": "Delegating all duties without supervision"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "The Drug Act of Nepal was enacted in:",
+      "options": {
+        "A": "2035 B.S.",
+        "B": "2037 B.S.",
+        "C": "2040 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which authority is primarily responsible for regulating medicines in Nepal?",
+      "options": {
+        "A": "Department of Drug Administration",
+        "B": "Department of Roads",
+        "C": "Department of Agriculture",
+        "D": "Nepal Rastra Bank"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "The Drug Registration Regulation was issued in:",
+      "options": {
+        "A": "2037 B.S.",
+        "B": "2038 B.S.",
+        "C": "2040 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The Drug Standard Regulation was issued in:",
+      "options": {
+        "A": "2038 B.S.",
+        "B": "2040 B.S.",
+        "C": "2041 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is a major requirement for quality pharmaceutical manufacturing?",
+      "options": {
+        "A": "Good Manufacturing Practice",
+        "B": "Random manufacturing",
+        "C": "Uncontrolled storage",
+        "D": "No quality testing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "What is the main purpose of drug registration?",
+      "options": {
+        "A": "To ensure that medicines meet required standards before marketing",
+        "B": "To increase medicine prices",
+        "C": "To advertise pharmaceutical companies",
+        "D": "To reduce the number of pharmacists"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is an example of a pharmacopoeia?",
+      "options": {
+        "A": "British Pharmacopoeia",
+        "B": "World Bank Report",
+        "C": "National Census",
+        "D": "Hospital Attendance Register"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "A prescription is best described as:",
+      "options": {
+        "A": "A written or electronic instruction from an authorized prescriber for medication",
+        "B": "A medicine advertisement",
+        "C": "A drug manufacturing license",
+        "D": "A hospital budget"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which information is important on a prescription?",
+      "options": {
+        "A": "Patient identification and prescribed medicine details",
+        "B": "Patient's favorite color",
+        "C": "Pharmacy decoration details",
+        "D": "Hospital building cost"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "What does the abbreviation BID commonly indicate?",
+      "options": {
+        "A": "Once daily",
+        "B": "Twice daily",
+        "C": "Three times daily",
+        "D": "At bedtime only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "What does the abbreviation TID commonly indicate?",
+      "options": {
+        "A": "Three times daily",
+        "B": "Twice daily",
+        "C": "Once weekly",
+        "D": "At bedtime"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which dosage form is designed to dissolve or disintegrate in the mouth?",
+      "options": {
+        "A": "Lozenge",
+        "B": "Injection",
+        "C": "Ointment",
+        "D": "Suppository"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which dosage form is commonly applied externally to the skin?",
+      "options": {
+        "A": "Ointment",
+        "B": "Tablet",
+        "C": "Capsule",
+        "D": "Syrup"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which pharmaceutical dosage form is sterile and intended for injection?",
+      "options": {
+        "A": "Injection",
+        "B": "Tablet",
+        "C": "Powder",
+        "D": "Syrup"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which factor can affect the stability of a pharmaceutical product?",
+      "options": {
+        "A": "Temperature",
+        "B": "Patient's occupation",
+        "C": "Hospital location only",
+        "D": "Pharmacy name"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "What is the main purpose of patient counseling by a pharmacist?",
+      "options": {
+        "A": "To improve medication adherence and safe use",
+        "B": "To replace the physician",
+        "C": "To increase unnecessary medicine use",
+        "D": "To change the diagnosis"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is an example of a drug incompatibility?",
+      "options": {
+        "A": "An undesirable physical or chemical interaction between pharmaceutical ingredients",
+        "B": "Correct drug storage",
+        "C": "Correct dosage calculation",
+        "D": "Proper labeling"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "A serious adverse drug reaction should generally be:",
+      "options": {
+        "A": "Ignored",
+        "B": "Reported through appropriate pharmacovigilance procedures",
+        "C": "Hidden from healthcare professionals",
+        "D": "Treated by increasing the same drug without assessment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a non-pharmacological method of disease prevention?",
+      "options": {
+        "A": "Hand hygiene",
+        "B": "Unnecessary antibiotic use",
+        "C": "Self-medication",
+        "D": "Overdosing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which is an important component of maternal health care?",
+      "options": {
+        "A": "Antenatal care",
+        "B": "Unnecessary medication",
+        "C": "Avoiding health checkups",
+        "D": "Ignoring danger signs"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which is an important aspect of child health care?",
+      "options": {
+        "A": "Immunization",
+        "B": "Avoiding nutrition",
+        "C": "Ignoring growth monitoring",
+        "D": "Routine antibiotic use without indication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which method is commonly used for drying crude herbal drugs?",
+      "options": {
+        "A": "Controlled air drying",
+        "B": "Continuous immersion in water",
+        "C": "Storage in wet conditions",
+        "D": "Keeping them in sealed wet containers"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Why is proper drying important for herbal drugs?",
+      "options": {
+        "A": "To reduce moisture and prevent deterioration",
+        "B": "To increase microbial growth",
+        "C": "To increase water content",
+        "D": "To destroy all active constituents"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which factor can affect the quality of herbal drugs?",
+      "options": {
+        "A": "Moisture",
+        "B": "Correct identification",
+        "C": "Proper storage",
+        "D": "Controlled drying"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "What is the purpose of isolation of an active constituent from a plant?",
+      "options": {
+        "A": "To obtain and identify a specific biologically active compound",
+        "B": "To destroy the plant material",
+        "C": "To increase moisture",
+        "D": "To prevent chemical analysis"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which analytical method uses a burette to deliver a standard solution?",
+      "options": {
+        "A": "Titration",
+        "B": "Chromatography",
+        "C": "Microscopy",
+        "D": "Spectroscopy"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "In acid-base titration, an indicator is commonly used to:",
+      "options": {
+        "A": "Detect the endpoint",
+        "B": "Increase sample volume",
+        "C": "Sterilize the solution",
+        "D": "Remove the solvent"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "UV spectroscopy primarily measures the absorption of:",
+      "options": {
+        "A": "Ultraviolet radiation",
+        "B": "Sound waves",
+        "C": "Mechanical waves",
+        "D": "Radio signals only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which chromatography method uses a flat plate coated with a stationary phase?",
+      "options": {
+        "A": "Thin Layer Chromatography",
+        "B": "Column Chromatography",
+        "C": "Gas chromatography only",
+        "D": "Paperless chromatography"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "In paper chromatography, separation primarily occurs due to differences in:",
+      "options": {
+        "A": "Distribution/partition of substances between phases",
+        "B": "Patient age",
+        "C": "Tablet hardness",
+        "D": "Drug price"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Sampling in pharmaceutical analysis is performed to:",
+      "options": {
+        "A": "Obtain a representative portion of a batch for testing",
+        "B": "Destroy the entire batch",
+        "C": "Avoid laboratory testing",
+        "D": "Increase the batch size"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which measure of central tendency represents the middle value of an ordered dataset?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Range"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Which measure represents the most frequently occurring value?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Standard deviation"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Which type of microorganism is commonly responsible for bacterial infections?",
+      "options": {
+        "A": "Bacteria",
+        "B": "Viruses only",
+        "C": "Helminths only",
+        "D": "Protozoa only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "What is the primary purpose of sterilization?",
+      "options": {
+        "A": "To destroy or remove all forms of viable microorganisms",
+        "B": "To improve drug taste",
+        "C": "To increase drug price",
+        "D": "To add preservatives"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which method commonly uses steam under pressure for sterilization?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Filtration only",
+        "C": "Sun drying",
+        "D": "Sedimentation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which factor determines the dose of a medicine?",
+      "options": {
+        "A": "Patient factors and clinical condition",
+        "B": "Package color only",
+        "C": "Manufacturer logo",
+        "D": "Pharmacy location"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "What is the therapeutic index used to indicate?",
+      "options": {
+        "A": "Relative safety margin of a drug",
+        "B": "Drug color",
+        "C": "Drug shelf size",
+        "D": "Packaging quality"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Which route of administration generally provides the fastest systemic drug availability?",
+      "options": {
+        "A": "Oral",
+        "B": "Intravenous",
+        "C": "Topical",
+        "D": "Rectal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Bioavailability refers to:",
+      "options": {
+        "A": "The fraction of an administered drug that reaches systemic circulation in active form",
+        "B": "The color of a medicine",
+        "C": "The storage temperature",
+        "D": "The cost of a medicine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "What is the primary purpose of drug storage guidelines?",
+      "options": {
+        "A": "To maintain drug quality, stability and safety",
+        "B": "To increase drug wastage",
+        "C": "To shorten shelf life",
+        "D": "To expose drugs to sunlight"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which inventory method prioritizes items according to their monetary value and consumption?",
+      "options": {
+        "A": "ABC analysis",
+        "B": "FEFO only",
+        "C": "FIFO only",
+        "D": "Alphabetical analysis"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "What does FIFO mean in inventory management?",
+      "options": {
+        "A": "First In, First Out",
+        "B": "First Inspection, First Order",
+        "C": "Fast Inventory, Fast Output",
+        "D": "First Item, Final Order"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "A stock-out means:",
+      "options": {
+        "A": "The required item is unavailable in stock",
+        "B": "The warehouse is completely full",
+        "C": "The item has been overstocked",
+        "D": "The item has been newly purchased"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which practice helps reduce expiry-related wastage of medicines?",
+      "options": {
+        "A": "FEFO",
+        "B": "Random distribution",
+        "C": "Ignoring expiry dates",
+        "D": "Storing newly received items in front without checking dates"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "What is the main goal of pharmaceutical supply management?",
+      "options": {
+        "A": "To ensure continuous availability of quality medicines at the right time and place",
+        "B": "To maximize expired stock",
+        "C": "To avoid inventory records",
+        "D": "To purchase medicines without assessing demand"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}

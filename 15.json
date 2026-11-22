@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 4",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Part of the Constitution of Nepal deals with fundamental rights and duties?",
+      "options": {
+        "A": "Part 2",
+        "B": "Part 3",
+        "C": "Part 4",
+        "D": "Part 5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Which constitutional body is responsible for conducting examinations for recruitment to the civil service?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "National Planning Commission",
+        "C": "Office of the Auditor General",
+        "D": "National Human Rights Commission"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which organization is primarily responsible for auditing government accounts in Nepal?",
+      "options": {
+        "A": "Ministry of Finance",
+        "B": "Public Service Commission",
+        "C": "Office of the Auditor General",
+        "D": "National Planning Commission"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "The annual government budget of Nepal is presented in which federal organ?",
+      "options": {
+        "A": "National Assembly",
+        "B": "House of Representatives",
+        "C": "Supreme Court",
+        "D": "Public Service Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which ministry is mainly responsible for matters related to civil administration and intergovernmental relations?",
+      "options": {
+        "A": "Ministry of Health and Population",
+        "B": "Ministry of Finance",
+        "C": "Ministry of Federal Affairs and General Administration",
+        "D": "Ministry of Education"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an important principle of good governance?",
+      "options": {
+        "A": "Secrecy in all decisions",
+        "B": "Accountability",
+        "C": "Discrimination",
+        "D": "Unlimited authority"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "The right to information primarily promotes:",
+      "options": {
+        "A": "Government secrecy",
+        "B": "Transparency",
+        "C": "Political discrimination",
+        "D": "Administrative delay"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which office procedure deals with sending official letters and documents from an office?",
+      "options": {
+        "A": "Registration",
+        "B": "Dispatch",
+        "C": "Filing",
+        "D": "Indexing"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "The main purpose of filing in an office is to:",
+      "options": {
+        "A": "Destroy old documents",
+        "B": "Store documents systematically for future reference",
+        "C": "Increase paperwork",
+        "D": "Prevent communication"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which management function involves determining what should be done in the future?",
+      "options": {
+        "A": "Planning",
+        "B": "Controlling",
+        "C": "Auditing",
+        "D": "Reporting"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Which leadership style allows subordinates to participate in decision-making?",
+      "options": {
+        "A": "Autocratic",
+        "B": "Democratic",
+        "C": "Dictatorial",
+        "D": "Coercive"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of internal communication in an office?",
+      "options": {
+        "A": "Office memorandum between departments",
+        "B": "Newspaper advertisement",
+        "C": "Public advertisement",
+        "D": "External business contract"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "The Drug Act of Nepal was enacted in:",
+      "options": {
+        "A": "2035 B.S.",
+        "B": "2038 B.S.",
+        "C": "2040 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which regulation deals specifically with registration of drugs in Nepal?",
+      "options": {
+        "A": "Drug Manufacturing Code 2041",
+        "B": "Drug Registration Regulation 2038",
+        "C": "Drug Standard Regulation 2043",
+        "D": "Drug Inquiry and Inspection Regulation 2040"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which body provides advice to the Government on matters related to drugs?",
+      "options": {
+        "A": "Drug Advisory Council",
+        "B": "Public Service Commission",
+        "C": "National Planning Commission",
+        "D": "Medical Council"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "The Drug Inquiry and Inspection Regulation was issued in:",
+      "options": {
+        "A": "2037 B.S.",
+        "B": "2038 B.S.",
+        "C": "2040 B.S.",
+        "D": "2043 B.S."
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which document provides information about medicines and their appropriate use for healthcare professionals?",
+      "options": {
+        "A": "National Formulary",
+        "B": "Attendance Register",
+        "C": "Office Diary",
+        "D": "Budget Speech"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "The main objective of rational drug use is to ensure that patients receive:",
+      "options": {
+        "A": "The most expensive medicine",
+        "B": "The appropriate medicine in the appropriate dose and duration",
+        "C": "Multiple medicines regardless of need",
+        "D": "Only injectable medicines"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is an important responsibility of a hospital pharmacist?",
+      "options": {
+        "A": "Performing surgery",
+        "B": "Managing medicines and providing medication-related information",
+        "C": "Diagnosing all diseases",
+        "D": "Conducting legal trials"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Patient counseling mainly helps patients to:",
+      "options": {
+        "A": "Understand how to use their medicines correctly",
+        "B": "Avoid all medical consultation",
+        "C": "Change prescribed doses themselves",
+        "D": "Stop treatment immediately"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "An adverse drug reaction (ADR) is best described as:",
+      "options": {
+        "A": "A beneficial effect of a drug",
+        "B": "A harmful and unintended response to a drug used at normal doses",
+        "C": "A manufacturing process",
+        "D": "A drug storage method"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is a physical incompatibility?",
+      "options": {
+        "A": "Formation of a precipitate",
+        "B": "Drug receptor activation",
+        "C": "Enzyme inhibition",
+        "D": "Drug absorption"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Which dosage form is designed to dissolve slowly in the mouth?",
+      "options": {
+        "A": "Syrup",
+        "B": "Lozenge",
+        "C": "Injection",
+        "D": "Suppository"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Which route of administration generally provides the fastest systemic drug effect?",
+      "options": {
+        "A": "Oral",
+        "B": "Topical",
+        "C": "Intravenous",
+        "D": "Rectal"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Which pharmaceutical additive is commonly used to improve the flavor of oral preparations?",
+      "options": {
+        "A": "Flavoring agent",
+        "B": "Preservative only",
+        "C": "Antioxidant only",
+        "D": "Lubricant only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is a principle of primary health care?",
+      "options": {
+        "A": "Community participation",
+        "B": "Treatment only in specialized hospitals",
+        "C": "Ignoring preventive care",
+        "D": "Restriction of health services"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "A major objective of maternal health care is to:",
+      "options": {
+        "A": "Reduce maternal morbidity and mortality",
+        "B": "Increase unnecessary medication",
+        "C": "Avoid antenatal care",
+        "D": "Restrict institutional delivery"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Colostrum is especially important for newborns because it is rich in:",
+      "options": {
+        "A": "Antibodies and protective factors",
+        "B": "Alcohol",
+        "C": "Caffeine",
+        "D": "Synthetic antibiotics"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is an important component of child health care?",
+      "options": {
+        "A": "Immunization",
+        "B": "Avoiding nutrition",
+        "C": "Avoiding growth monitoring",
+        "D": "Routine antibiotic use without indication"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "The first step in first aid for an unconscious person is to assess:",
+      "options": {
+        "A": "Hair color",
+        "B": "Airway, breathing and circulation",
+        "C": "Blood group only",
+        "D": "Body weight"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Which method is commonly used for drying medicinal plants?",
+      "options": {
+        "A": "Drying in a suitable controlled environment",
+        "B": "Keeping them permanently submerged in water",
+        "C": "Mixing them with soil",
+        "D": "Freezing all plants regardless of drug type"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "The main purpose of drying crude drugs is to:",
+      "options": {
+        "A": "Increase microbial growth",
+        "B": "Reduce moisture and prevent deterioration",
+        "C": "Increase contamination",
+        "D": "Destroy all active constituents"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Which extraction method commonly uses a volatile solvent and a Soxhlet apparatus?",
+      "options": {
+        "A": "Continuous hot extraction",
+        "B": "Simple filtration",
+        "C": "Decantation only",
+        "D": "Sedimentation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Alkaloids are generally:",
+      "options": {
+        "A": "Nitrogen-containing organic compounds",
+        "B": "Simple inorganic salts only",
+        "C": "Carbohydrates only",
+        "D": "Proteins only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which analytical method is based on measuring the volume of a standard solution required to react with an analyte?",
+      "options": {
+        "A": "Titrimetric analysis",
+        "B": "Chromatography",
+        "C": "Microscopy",
+        "D": "Filtration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "In an acid-base titration, the equivalence point is the point at which:",
+      "options": {
+        "A": "The required stoichiometric amounts have reacted",
+        "B": "No reaction has occurred",
+        "C": "The solution is always neutral",
+        "D": "The solvent evaporates"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which indicator is commonly used in acid-base titration?",
+      "options": {
+        "A": "Phenolphthalein",
+        "B": "Starch only for every titration",
+        "C": "Sodium chloride",
+        "D": "Activated charcoal"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "UV-visible spectroscopy primarily measures:",
+      "options": {
+        "A": "Absorption of electromagnetic radiation",
+        "B": "Drug taste",
+        "C": "Particle weight only",
+        "D": "Microbial colony size"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Beer-Lambert law relates absorbance to:",
+      "options": {
+        "A": "Concentration and path length",
+        "B": "Temperature only",
+        "C": "Pressure only",
+        "D": "Particle shape only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which chromatographic technique commonly uses a stationary phase coated on a plate?",
+      "options": {
+        "A": "Thin-layer chromatography",
+        "B": "Gas filtration",
+        "C": "Simple distillation",
+        "D": "Centrifugation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "In paper chromatography, separation mainly occurs because substances have different:",
+      "options": {
+        "A": "Affinities for stationary and mobile phases",
+        "B": "Blood groups",
+        "C": "Atomic numbers only",
+        "D": "Boiling points only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Microbiological assay of antibiotics is used to determine their:",
+      "options": {
+        "A": "Biological potency",
+        "B": "Color only",
+        "C": "Packaging size",
+        "D": "Tablet shape"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "A sample selected from a population for statistical study is called:",
+      "options": {
+        "A": "Sample",
+        "B": "Population",
+        "C": "Census",
+        "D": "Variable only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "The arithmetic average of a set of observations is called:",
+      "options": {
+        "A": "Median",
+        "B": "Mode",
+        "C": "Mean",
+        "D": "Range"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "The middle value of an ordered data set is called:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Variance"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Pharmacokinetics mainly studies:",
+      "options": {
+        "A": "What the drug does to the body",
+        "B": "What the body does to the drug",
+        "C": "Drug packaging",
+        "D": "Drug manufacturing laws"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Pharmacodynamics mainly studies:",
+      "options": {
+        "A": "What the drug does to the body",
+        "B": "Drug storage conditions",
+        "C": "Drug distribution logistics",
+        "D": "Drug registration procedures"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which pharmacokinetic process involves movement of a drug from the site of administration into the bloodstream?",
+      "options": {
+        "A": "Absorption",
+        "B": "Metabolism",
+        "C": "Excretion",
+        "D": "Elimination only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "The liver is a major organ involved in drug:",
+      "options": {
+        "A": "Metabolism",
+        "B": "Filtration through glomeruli",
+        "C": "Respiration",
+        "D": "Bone formation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "The kidneys are major organs responsible for drug:",
+      "options": {
+        "A": "Absorption from the stomach",
+        "B": "Excretion",
+        "C": "Receptor binding",
+        "D": "Protein synthesis only"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "A drug that binds to a receptor and produces a response is called:",
+      "options": {
+        "A": "Agonist",
+        "B": "Antigen",
+        "C": "Antibody",
+        "D": "Enzyme"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "A substance that triggers an immune response is called:",
+      "options": {
+        "A": "Antigen",
+        "B": "Analgesic",
+        "C": "Antacid",
+        "D": "Antiseptic"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Antibodies are mainly produced by:",
+      "options": {
+        "A": "B lymphocytes and their plasma cell descendants",
+        "B": "Red blood cells",
+        "C": "Platelets",
+        "D": "Neurons"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Sterilization means:",
+      "options": {
+        "A": "Removal or destruction of all forms of viable microorganisms",
+        "B": "Reduction of dust only",
+        "C": "Removal of visible dirt only",
+        "D": "Reduction of temperature"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Which method uses steam under pressure for sterilization?",
+      "options": {
+        "A": "Autoclaving",
+        "B": "Filtration only",
+        "C": "Sun drying",
+        "D": "Sedimentation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Pyrogens are substances that can cause:",
+      "options": {
+        "A": "Fever",
+        "B": "Fracture",
+        "C": "Blindness in every case",
+        "D": "Immediate anesthesia"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "The main purpose of inventory control is to:",
+      "options": {
+        "A": "Maintain adequate stock while minimizing unnecessary inventory",
+        "B": "Keep maximum stock of every item",
+        "C": "Avoid recording stock",
+        "D": "Destroy expired medicines"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "FEFO stands for:",
+      "options": {
+        "A": "First Expired, First Out",
+        "B": "First Entered, First Ordered",
+        "C": "Fast Entry, Fast Output",
+        "D": "Final Expiry, Final Order"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Why is FEFO particularly important for medicines?",
+      "options": {
+        "A": "It helps ensure products with earlier expiry dates are used first",
+        "B": "It increases medicine prices",
+        "C": "It eliminates the need for storage",
+        "D": "It prevents all drug interactions"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Essential medicines are medicines that:",
+      "options": {
+        "A": "Meet the priority health-care needs of the population",
+        "B": "Are always the most expensive medicines",
+        "C": "Are used only in private hospitals",
+        "D": "Are never available in primary health facilities"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which condition is generally important for storing many pharmaceutical products?",
+      "options": {
+        "A": "Controlled temperature and humidity as required",
+        "B": "Direct sunlight for all medicines",
+        "C": "Continuous exposure to moisture",
+        "D": "Open containers"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "A stock ledger is primarily used to record:",
+      "options": {
+        "A": "Receipt, issue and balance of stock",
+        "B": "Patient diagnosis only",
+        "C": "Employee attendance only",
+        "D": "Government laws only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "The purpose of a cold chain is to:",
+      "options": {
+        "A": "Maintain required low temperatures for temperature-sensitive products",
+        "B": "Freeze all medicines",
+        "C": "Store medicines without monitoring",
+        "D": "Increase humidity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which vaccine storage condition is generally maintained in a refrigerator for routine vaccine storage?",
+      "options": {
+        "A": "2°C to 8°C",
+        "B": "20°C to 30°C",
+        "C": "30°C to 40°C",
+        "D": "-50°C to -40°C"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "A cost-recovery drug scheme primarily aims to:",
+      "options": {
+        "A": "Recover part or all of the cost of medicines to support continued availability",
+        "B": "Provide medicines only to wealthy patients",
+        "C": "Eliminate medicine supply",
+        "D": "Increase expired stock"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which of the following is an example of a controlled drug-storage practice?",
+      "options": {
+        "A": "Keeping restricted medicines securely with proper records",
+        "B": "Leaving them openly accessible",
+        "C": "Removing all stock records",
+        "D": "Storing them beside food without control"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "The National Drug Policy primarily provides direction for:",
+      "options": {
+        "A": "Drug availability, quality, safety and rational use",
+        "B": "Road construction",
+        "C": "Foreign currency exchange",
+        "D": "School examination schedules"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which organization is a specialized agency of the United Nations concerned with international public health?",
+      "options": {
+        "A": "WHO",
+        "B": "WTO",
+        "C": "ILO",
+        "D": "UNESCO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "SAARC stands for:",
+      "options": {
+        "A": "South Asian Association for Regional Cooperation",
+        "B": "South American Association for Regional Cooperation",
+        "C": "South Asian Administrative and Research Council",
+        "D": "Social Asian Association for Regional Coordination"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is an important goal of sustainable development?",
+      "options": {
+        "A": "Meeting present needs while protecting the ability of future generations to meet their needs",
+        "B": "Using all natural resources as quickly as possible",
+        "C": "Increasing pollution for economic growth",
+        "D": "Ignoring environmental protection"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
