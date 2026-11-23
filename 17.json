@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 5",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the smallest unit of local government in Nepal?",
+      "options": {
+        "A": "District",
+        "B": "Ward",
+        "C": "Province",
+        "D": "Municipality"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "How many provinces are there in Nepal?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Which is the highest mountain in the world?",
+      "options": {
+        "A": "Kangchenjunga",
+        "B": "Mount Everest",
+        "C": "Lhotse",
+        "D": "Makalu"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 4,
+      "question": "Which natural resource is the main source of hydropower generation in Nepal?",
+      "options": {
+        "A": "Petroleum",
+        "B": "Coal",
+        "C": "Rivers and flowing water",
+        "D": "Natural gas"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Which international organization publishes the Human Development Report?",
+      "options": {
+        "A": "UNDP",
+        "B": "WHO",
+        "C": "UNICEF",
+        "D": "FAO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which gas is the major contributor to human-induced global warming?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Helium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which vitamin is mainly produced in the skin through exposure to sunlight?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin B12",
+        "C": "Vitamin C",
+        "D": "Vitamin D"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": 8,
+      "question": "Which nutrient is the body's main source of energy?",
+      "options": {
+        "A": "Carbohydrate",
+        "B": "Vitamin",
+        "C": "Mineral",
+        "D": "Water"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which disease is caused by deficiency of vitamin C?",
+      "options": {
+        "A": "Rickets",
+        "B": "Scurvy",
+        "C": "Night blindness",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Which organization is responsible for international labour standards?",
+      "options": {
+        "A": "WHO",
+        "B": "UNESCO",
+        "C": "ILO",
+        "D": "WMO"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a constitutional body of Nepal?",
+      "options": {
+        "A": "Nepal Rastra Bank",
+        "B": "Public Service Commission",
+        "C": "Department of Health Services",
+        "D": "Nepal Police Headquarters"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "The Constitution of Nepal was promulgated on:",
+      "options": {
+        "A": "3 Ashwin 2072",
+        "B": "1 Baisakh 2072",
+        "C": "15 Jestha 2072",
+        "D": "7 Falgun 2072"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Which body is responsible for formulating the national periodic development plans of Nepal?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "National Planning Commission",
+        "C": "Office of the Auditor General",
+        "D": "Election Commission"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Which document is used to communicate official instructions within an organization?",
+      "options": {
+        "A": "Personal diary",
+        "B": "Memorandum",
+        "C": "Newspaper",
+        "D": "Invoice"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "What is the main purpose of office registration of incoming letters?",
+      "options": {
+        "A": "To destroy unnecessary letters",
+        "B": "To record and track received correspondence",
+        "C": "To publish letters publicly",
+        "D": "To replace official files"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Which management function ensures that actual performance follows planned standards?",
+      "options": {
+        "A": "Planning",
+        "B": "Organizing",
+        "C": "Controlling",
+        "D": "Staffing"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Delegation of authority means:",
+      "options": {
+        "A": "Transfer of some authority to subordinates to perform assigned duties",
+        "B": "Removal of all responsibilities",
+        "C": "Avoidance of decision-making",
+        "D": "Transfer of an employee to another office"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Which type of audit is conducted by an organization's own internal audit unit?",
+      "options": {
+        "A": "External audit",
+        "B": "Internal audit",
+        "C": "Social audit",
+        "D": "Performance appraisal"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "A public charter mainly informs citizens about:",
+      "options": {
+        "A": "Private employee salaries",
+        "B": "Services, procedures, time limits and responsible officials",
+        "C": "Political party programmes",
+        "D": "Personal information of service users"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 20,
+      "question": "Which principle requires public officials to treat service users fairly and without discrimination?",
+      "options": {
+        "A": "Impartiality",
+        "B": "Secrecy",
+        "C": "Favoritism",
+        "D": "Nepotism"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Which law governs the management and operation of Nepal's civil service?",
+      "options": {
+        "A": "Drug Act 2035",
+        "B": "Civil Service Act 2049",
+        "C": "Education Act 2028",
+        "D": "Public Health Service Act 2075"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is generally a form of departmental punishment under civil service rules?",
+      "options": {
+        "A": "Promotion",
+        "B": "Transfer by request",
+        "C": "Warning",
+        "D": "Training"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "The primary purpose of a government budget is to:",
+      "options": {
+        "A": "Estimate revenue and authorize expenditure",
+        "B": "Record only employee attendance",
+        "C": "Determine private company profits",
+        "D": "Replace national laws"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a source of government revenue?",
+      "options": {
+        "A": "Salary payment",
+        "B": "Tax collection",
+        "C": "Office furniture purchase",
+        "D": "Pension payment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "The main objective of the Drug Act 2035 is to regulate:",
+      "options": {
+        "A": "Road transportation",
+        "B": "Education institutions",
+        "C": "Drugs and their quality, safety and control",
+        "D": "Agricultural land ownership"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Which government department is primarily responsible for regulating drugs in Nepal?",
+      "options": {
+        "A": "Department of Drug Administration",
+        "B": "Department of Customs",
+        "C": "Department of Roads",
+        "D": "Department of Education"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Which activity generally requires a drug-related licence under Nepal's drug regulatory framework?",
+      "options": {
+        "A": "Reading a pharmacology book",
+        "B": "Manufacturing drugs commercially",
+        "C": "Studying anatomy",
+        "D": "Attending a health seminar"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "What is the main purpose of drug registration?",
+      "options": {
+        "A": "To ensure regulatory evaluation before marketing",
+        "B": "To increase the colour of medicines",
+        "C": "To remove expiry dates",
+        "D": "To avoid quality testing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is an important requirement of Good Manufacturing Practice (GMP)?",
+      "options": {
+        "A": "Uncontrolled production",
+        "B": "Proper documentation and quality control",
+        "C": "Use of expired raw materials",
+        "D": "No cleaning of equipment"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "A pharmacopoeia is an official publication containing:",
+      "options": {
+        "A": "Standards for drugs and pharmaceutical substances",
+        "B": "Hospital staff attendance",
+        "C": "Government election results",
+        "D": "Patient admission records"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a recognized pharmacopoeia?",
+      "options": {
+        "A": "British Pharmacopoeia",
+        "B": "Oxford Dictionary",
+        "C": "World Atlas",
+        "D": "Civil Service Manual"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "The National Drug Policy of Nepal was first formulated in:",
+      "options": {
+        "A": "2048 B.S.",
+        "B": "2050 B.S.",
+        "C": "2055 B.S.",
+        "D": "2060 B.S."
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which information is essential on a valid prescription?",
+      "options": {
+        "A": "Patient's favourite food",
+        "B": "Prescriber's name and signature",
+        "C": "Patient's occupation only",
+        "D": "Pharmacy opening hours"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "The abbreviation 'b.i.d.' on a prescription means:",
+      "options": {
+        "A": "Once daily",
+        "B": "Twice daily",
+        "C": "Three times daily",
+        "D": "At bedtime"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "The abbreviation 'p.r.n.' means:",
+      "options": {
+        "A": "Before meals",
+        "B": "After meals",
+        "C": "When required",
+        "D": "Every morning"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Which dosage form is a solid preparation intended for insertion into the rectum?",
+      "options": {
+        "A": "Lozenge",
+        "B": "Suppository",
+        "C": "Elixir",
+        "D": "Emulsion"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Which substance is commonly used as a tablet binder?",
+      "options": {
+        "A": "Povidone",
+        "B": "Sodium chloride only",
+        "C": "Ethanol only",
+        "D": "Purified water only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Which excipient helps a tablet break apart after administration?",
+      "options": {
+        "A": "Colouring agent",
+        "B": "Disintegrant",
+        "C": "Sweetener",
+        "D": "Preservative"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a common example of a suspending agent?",
+      "options": {
+        "A": "Sodium carboxymethylcellulose",
+        "B": "Sodium bicarbonate",
+        "C": "Glucose",
+        "D": "Sodium chloride"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Which route of administration avoids first-pass metabolism in the liver?",
+      "options": {
+        "A": "Oral",
+        "B": "Sublingual",
+        "C": "Swallowed capsule",
+        "D": "Oral suspension"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Which drug is commonly used as an antidote for paracetamol poisoning?",
+      "options": {
+        "A": "Atropine",
+        "B": "Naloxone",
+        "C": "N-acetylcysteine",
+        "D": "Vitamin K"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "Which medicine is commonly used to reverse opioid-induced respiratory depression?",
+      "options": {
+        "A": "Naloxone",
+        "B": "Adrenaline",
+        "C": "Omeprazole",
+        "D": "Metformin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a common symptom of hypoglycaemia?",
+      "options": {
+        "A": "Sweating and trembling",
+        "B": "Yellowing of teeth",
+        "C": "Hair growth",
+        "D": "Ear discharge"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Oral rehydration solution (ORS) is primarily used to:",
+      "options": {
+        "A": "Treat bacterial infections directly",
+        "B": "Replace water and electrolytes lost through diarrhoea",
+        "C": "Reduce blood pressure",
+        "D": "Treat fractures"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Which medicinal plant is a common source of the alkaloid quinine?",
+      "options": {
+        "A": "Digitalis",
+        "B": "Cinchona",
+        "C": "Senna",
+        "D": "Aloe"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Digitalis is traditionally used as a source of:",
+      "options": {
+        "A": "Cardiac glycosides",
+        "B": "Volatile oils",
+        "C": "Tannins only",
+        "D": "Fixed oils only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Senna is commonly used as a:",
+      "options": {
+        "A": "Laxative",
+        "B": "Anticoagulant",
+        "C": "Antimalarial",
+        "D": "Antihypertensive"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which extraction method involves soaking crude drugs in a solvent at room temperature?",
+      "options": {
+        "A": "Maceration",
+        "B": "Sublimation",
+        "C": "Distillation",
+        "D": "Incineration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Which technique is commonly used to separate volatile oils from plant materials?",
+      "options": {
+        "A": "Steam distillation",
+        "B": "Paper chromatography only",
+        "C": "Simple filtration",
+        "D": "Precipitation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "The pH of a neutral aqueous solution at 25°C is approximately:",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "7",
+        "D": "12"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Which instrument is used to measure the pH of a solution?",
+      "options": {
+        "A": "Colorimeter",
+        "B": "pH meter",
+        "C": "Viscometer",
+        "D": "Hygrometer"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "In iodometric titration, starch is used as:",
+      "options": {
+        "A": "An indicator",
+        "B": "A solvent",
+        "C": "A titrant",
+        "D": "A preservative"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which law states that absorbance is directly proportional to concentration under suitable conditions?",
+      "options": {
+        "A": "Boyle's law",
+        "B": "Beer-Lambert law",
+        "C": "Charles's law",
+        "D": "Newton's law"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "In thin-layer chromatography, the Rf value is calculated as:",
+      "options": {
+        "A": "Distance travelled by solvent divided by distance travelled by solute",
+        "B": "Distance travelled by solute divided by distance travelled by solvent front",
+        "C": "Mass of solute divided by mass of solvent",
+        "D": "Concentration divided by absorbance"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Which method is commonly used to separate proteins according to their size and charge?",
+      "options": {
+        "A": "Electrophoresis",
+        "B": "Simple filtration",
+        "C": "Sedimentation only",
+        "D": "Titration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which statistical measure describes the spread of data around the mean?",
+      "options": {
+        "A": "Standard deviation",
+        "B": "Mode",
+        "C": "Median",
+        "D": "Percentage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Which phase of a clinical trial is usually the first stage of testing a new drug in humans?",
+      "options": {
+        "A": "Phase I",
+        "B": "Phase II",
+        "C": "Phase III",
+        "D": "Phase IV"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Bioavailability refers to the:",
+      "options": {
+        "A": "Fraction of an administered drug reaching systemic circulation unchanged",
+        "B": "Rate of drug manufacturing",
+        "C": "Amount of drug in packaging",
+        "D": "Duration of drug storage"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "The time required for the plasma concentration of a drug to decrease by half is called:",
+      "options": {
+        "A": "Onset time",
+        "B": "Half-life",
+        "C": "Peak time",
+        "D": "Lag time"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Which type of immunity is produced after vaccination?",
+      "options": {
+        "A": "Artificial active immunity",
+        "B": "Natural passive immunity",
+        "C": "Artificial passive immunity",
+        "D": "Innate immunity only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which cells are primarily responsible for cell-mediated immunity?",
+      "options": {
+        "A": "Red blood cells",
+        "B": "T lymphocytes",
+        "C": "Platelets",
+        "D": "Epithelial cells"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Which sterilization method is suitable for heat-sensitive solutions?",
+      "options": {
+        "A": "Dry heat",
+        "B": "Membrane filtration",
+        "C": "Flaming",
+        "D": "Incineration"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Which organism is commonly used as a biological indicator for steam sterilization?",
+      "options": {
+        "A": "Geobacillus stearothermophilus",
+        "B": "Escherichia coli",
+        "C": "Staphylococcus epidermidis",
+        "D": "Candida albicans"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which method is commonly used to test bacterial endotoxins in pharmaceutical preparations?",
+      "options": {
+        "A": "Limulus Amebocyte Lysate test",
+        "B": "Benedict's test",
+        "C": "Biuret test",
+        "D": "Molisch's test"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "ABC analysis in inventory management classifies items mainly according to:",
+      "options": {
+        "A": "Annual consumption value",
+        "B": "Colour of packaging",
+        "C": "Name of manufacturer",
+        "D": "Size of storage room"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "VEN analysis classifies medicines according to their:",
+      "options": {
+        "A": "Price, weight and size",
+        "B": "Vital, Essential and Non-essential status",
+        "C": "Colour, taste and shape",
+        "D": "Country of manufacture"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "The reorder level indicates:",
+      "options": {
+        "A": "The stock level at which a new order should be placed",
+        "B": "The maximum expiry date",
+        "C": "The number of staff in a pharmacy",
+        "D": "The selling price of a medicine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which document is commonly used to record medicines issued from a pharmacy store?",
+      "options": {
+        "A": "Issue voucher",
+        "B": "Birth certificate",
+        "C": "Leave application",
+        "D": "Appointment letter"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is the best practice when receiving medicines in a store?",
+      "options": {
+        "A": "Accept all products without inspection",
+        "B": "Check quantity, batch number, expiry date and product condition",
+        "C": "Remove labels from all packages",
+        "D": "Mix new stock with damaged stock"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is an important responsibility of a pharmacist in promoting antimicrobial stewardship?",
+      "options": {
+        "A": "Encouraging antibiotic use for every viral infection",
+        "B": "Promoting appropriate antibiotic selection, dose and duration",
+        "C": "Selling antibiotics without following applicable requirements",
+        "D": "Recommending patients stop treatment without consultation"
+      },
+      "correct_answer": "B"
+    }
+  ]
+}
