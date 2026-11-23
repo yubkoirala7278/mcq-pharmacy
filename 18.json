@@ -1,0 +1,778 @@
+{
+  "title": "Nepal Health Service, Pharmacy Group, Fifth Level - MCQ Set 6",
+  "total_questions": 70,
+  "marks_per_question": 1,
+  "total_marks": 70,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which is the largest district of Nepal by area?",
+      "options": {
+        "A": "Dolpa",
+        "B": "Humla",
+        "C": "Mustang",
+        "D": "Taplejung"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Which river system is the largest in Nepal?",
+      "options": {
+        "A": "Karnali",
+        "B": "Koshi",
+        "C": "Bagmati",
+        "D": "Rapti"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Which is the deepest lake in Nepal?",
+      "options": {
+        "A": "Rara Lake",
+        "B": "Tilicho Lake",
+        "C": "Shey Phoksundo Lake",
+        "D": "Phewa Lake"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Which national park is famous for the one-horned rhinoceros?",
+      "options": {
+        "A": "Sagarmatha National Park",
+        "B": "Chitwan National Park",
+        "C": "Rara National Park",
+        "D": "Khaptad National Park"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": {
+        "A": "Coal",
+        "B": "Petroleum",
+        "C": "Solar energy",
+        "D": "Natural gas"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Which layer of the atmosphere contains the ozone layer?",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Which disease is primarily transmitted by the female Anopheles mosquito?",
+      "options": {
+        "A": "Dengue",
+        "B": "Malaria",
+        "C": "Cholera",
+        "D": "Typhoid"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Which microorganism causes tuberculosis?",
+      "options": {
+        "A": "Mycobacterium tuberculosis",
+        "B": "Vibrio cholerae",
+        "C": "Salmonella typhi",
+        "D": "Plasmodium vivax"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Which mineral is essential for the formation of haemoglobin?",
+      "options": {
+        "A": "Calcium",
+        "B": "Iron",
+        "C": "Iodine",
+        "D": "Sodium"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Deficiency of iodine can cause:",
+      "options": {
+        "A": "Scurvy",
+        "B": "Goitre",
+        "C": "Rickets",
+        "D": "Beriberi"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Which Sustainable Development Goal focuses specifically on good health and well-being?",
+      "options": {
+        "A": "SDG 2",
+        "B": "SDG 3",
+        "C": "SDG 4",
+        "D": "SDG 5"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Where is the headquarters of the World Health Organization located?",
+      "options": {
+        "A": "New York",
+        "B": "Geneva",
+        "C": "Paris",
+        "D": "Rome"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Which UN agency is primarily concerned with children's welfare?",
+      "options": {
+        "A": "UNICEF",
+        "B": "UNDP",
+        "C": "ILO",
+        "D": "FAO"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Which body of the United Nations has primary responsibility for international peace and security?",
+      "options": {
+        "A": "General Assembly",
+        "B": "Security Council",
+        "C": "Economic and Social Council",
+        "D": "International Court of Justice"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Which regional organization includes Nepal, India, Bhutan and Bangladesh?",
+      "options": {
+        "A": "European Union",
+        "B": "SAARC",
+        "C": "ASEAN",
+        "D": "African Union"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "How many schedules are included in the Constitution of Nepal?",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Which part of the Constitution of Nepal deals with citizenship?",
+      "options": {
+        "A": "Part 1",
+        "B": "Part 2",
+        "C": "Part 3",
+        "D": "Part 4"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Which constitutional body is responsible for conducting and supervising elections in Nepal?",
+      "options": {
+        "A": "Public Service Commission",
+        "B": "Election Commission",
+        "C": "National Human Rights Commission",
+        "D": "Office of the Auditor General"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Which fundamental right protects citizens against untouchability and discrimination?",
+      "options": {
+        "A": "Right to Equality",
+        "B": "Right to Property",
+        "C": "Right to Privacy",
+        "D": "Right to Employment"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Which level of government is responsible for local municipal services?",
+      "options": {
+        "A": "Federal government only",
+        "B": "Provincial government only",
+        "C": "Local government",
+        "D": "International organizations"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is an example of upward communication?",
+      "options": {
+        "A": "Manager giving instructions to staff",
+        "B": "Employee submitting a report to a supervisor",
+        "C": "Two employees discussing a task",
+        "D": "Office issuing a public notice"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Which record is used to track the movement of official files between sections?",
+      "options": {
+        "A": "File movement register",
+        "B": "Attendance register",
+        "C": "Cash book",
+        "D": "Stock register"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "What is the main purpose of a circular in office administration?",
+      "options": {
+        "A": "To communicate common information or instructions to multiple recipients",
+        "B": "To record personal expenses",
+        "C": "To issue a medical prescription",
+        "D": "To prepare a financial audit"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Which management principle emphasizes that each employee should receive orders from one superior?",
+      "options": {
+        "A": "Unity of command",
+        "B": "Division of work",
+        "C": "Equity",
+        "D": "Centralization"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following best describes coordination?",
+      "options": {
+        "A": "Combining activities of different units toward common objectives",
+        "B": "Working independently without communication",
+        "C": "Avoiding organizational goals",
+        "D": "Increasing unnecessary paperwork"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Which type of leave is generally granted to a civil servant for personal reasons subject to applicable rules?",
+      "options": {
+        "A": "Home leave",
+        "B": "Casual leave",
+        "C": "Study leave",
+        "D": "Maternity leave"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is an example of conflict of interest?",
+      "options": {
+        "A": "Making decisions based on official criteria",
+        "B": "Using public authority to benefit a family business",
+        "C": "Following office procedures",
+        "D": "Providing equal services to citizens"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "The main purpose of performance evaluation of civil servants is to:",
+      "options": {
+        "A": "Assess work performance and identify areas for improvement",
+        "B": "Replace all recruitment procedures",
+        "C": "Avoid accountability",
+        "D": "Eliminate staff training"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Which financial document records cash receipts and payments?",
+      "options": {
+        "A": "Cash book",
+        "B": "Stock ledger",
+        "C": "Dispatch register",
+        "D": "Personal diary"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Which audit examines whether public resources have been used economically, efficiently and effectively?",
+      "options": {
+        "A": "Performance audit",
+        "B": "Attendance audit",
+        "C": "Medical audit only",
+        "D": "Inventory counting only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Which authority is responsible for registering and regulating drugs in Nepal?",
+      "options": {
+        "A": "Department of Drug Administration",
+        "B": "Department of Immigration",
+        "C": "Department of Transport Management",
+        "D": "Department of Archaeology"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is an important objective of drug quality control?",
+      "options": {
+        "A": "Ensuring identity, strength, purity and quality",
+        "B": "Increasing packaging costs",
+        "C": "Changing the colour of every drug",
+        "D": "Avoiding laboratory testing"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Which document provides detailed procedures for manufacturing pharmaceutical products consistently?",
+      "options": {
+        "A": "Standard Operating Procedure",
+        "B": "Personal attendance sheet",
+        "C": "Travel diary",
+        "D": "Patient discharge card"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is a responsibility of a drug inspector?",
+      "options": {
+        "A": "Inspecting premises involved in drug-related activities",
+        "B": "Conducting court trials",
+        "C": "Preparing national election results",
+        "D": "Issuing driving licences"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Which term refers to a medicine that has the same active ingredient as another medicine but may have a different brand name?",
+      "options": {
+        "A": "Generic medicine",
+        "B": "Placebo",
+        "C": "Antidote",
+        "D": "Vaccine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a common reason for recalling a pharmaceutical product?",
+      "options": {
+        "A": "Confirmed quality defect",
+        "B": "Change in pharmacy opening hours",
+        "C": "Change in hospital furniture",
+        "D": "Staff transfer"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Which type of incompatibility occurs when two drugs chemically react with each other?",
+      "options": {
+        "A": "Physical incompatibility",
+        "B": "Chemical incompatibility",
+        "C": "Therapeutic incompatibility",
+        "D": "Pharmacokinetic compatibility"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is an example of a topical dosage form?",
+      "options": {
+        "A": "Ointment",
+        "B": "Tablet",
+        "C": "Capsule",
+        "D": "Intravenous injection"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Which route of administration is most suitable for a drug intended to act locally on the skin?",
+      "options": {
+        "A": "Intravenous",
+        "B": "Topical",
+        "C": "Intramuscular",
+        "D": "Oral"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is a common preservative used in pharmaceutical liquid preparations?",
+      "options": {
+        "A": "Methylparaben",
+        "B": "Starch",
+        "C": "Lactose",
+        "D": "Talc"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Which term describes the time between administration of a medicine and the beginning of its effect?",
+      "options": {
+        "A": "Duration of action",
+        "B": "Onset of action",
+        "C": "Half-life",
+        "D": "Elimination rate"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a common adverse effect of opioid analgesics?",
+      "options": {
+        "A": "Constipation",
+        "B": "Increased bone growth",
+        "C": "Improved vision",
+        "D": "Increased hair growth"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Which drug class is commonly used to reduce gastric acid secretion?",
+      "options": {
+        "A": "Proton pump inhibitors",
+        "B": "Anticoagulants",
+        "C": "Antihistamines for allergy",
+        "D": "Antimalarials"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Which of the following medicines is commonly used to treat hypertension?",
+      "options": {
+        "A": "Amlodipine",
+        "B": "Albendazole",
+        "C": "Omeprazole",
+        "D": "Loperamide"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Which drug is commonly used to treat type 2 diabetes mellitus?",
+      "options": {
+        "A": "Metformin",
+        "B": "Cetirizine",
+        "C": "Amoxicillin",
+        "D": "Salbutamol"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is a beta-2 adrenergic agonist used in asthma?",
+      "options": {
+        "A": "Salbutamol",
+        "B": "Propranolol",
+        "C": "Atenolol",
+        "D": "Warfarin"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Which drug is commonly used as an antihistamine?",
+      "options": {
+        "A": "Cetirizine",
+        "B": "Metformin",
+        "C": "Digoxin",
+        "D": "Furosemide"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is a common antiplatelet medicine?",
+      "options": {
+        "A": "Aspirin",
+        "B": "Amoxicillin",
+        "C": "Paracetamol",
+        "D": "Loratadine"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Which medicinal plant is a well-known source of atropine?",
+      "options": {
+        "A": "Atropa belladonna",
+        "B": "Senna alexandrina",
+        "C": "Cinchona officinalis",
+        "D": "Digitalis purpurea"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Which plant is a common source of the cardiac glycoside digoxin?",
+      "options": {
+        "A": "Digitalis lanata",
+        "B": "Papaver somniferum",
+        "C": "Rauvolfia serpentina",
+        "D": "Mentha piperita"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Which of the following is a common source of morphine?",
+      "options": {
+        "A": "Opium poppy",
+        "B": "Aloe vera",
+        "C": "Cinchona",
+        "D": "Clove"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Which process is used to remove water from a solution by converting it into vapour?",
+      "options": {
+        "A": "Evaporation",
+        "B": "Filtration",
+        "C": "Sedimentation",
+        "D": "Crystallization only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Which analytical technique uses a standard solution of known concentration?",
+      "options": {
+        "A": "Titration",
+        "B": "Microscopy",
+        "C": "Centrifugation",
+        "D": "Drying"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Which type of titration is commonly used to determine the concentration of chloride ions?",
+      "options": {
+        "A": "Precipitation titration",
+        "B": "Acid-base titration only",
+        "C": "Complexometric titration only",
+        "D": "Non-aqueous titration only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "EDTA is commonly used in which type of titration?",
+      "options": {
+        "A": "Complexometric titration",
+        "B": "Redox titration",
+        "C": "Acid-base titration",
+        "D": "Precipitation titration"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Which instrument is used to measure the absorbance of a sample in UV-visible spectroscopy?",
+      "options": {
+        "A": "Spectrophotometer",
+        "B": "Autoclave",
+        "C": "Centrifuge",
+        "D": "Incubator"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Which chromatography technique is commonly used to separate compounds based on their interaction with a liquid mobile phase and a solid stationary phase?",
+      "options": {
+        "A": "Column chromatography",
+        "B": "Simple filtration",
+        "C": "Drying",
+        "D": "Distillation"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Which term describes the ability of an analytical method to measure the intended substance accurately in the presence of other components?",
+      "options": {
+        "A": "Specificity",
+        "B": "Solubility",
+        "C": "Volatility",
+        "D": "Viscosity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Which of the following is a measure of the closeness of repeated measurements to one another?",
+      "options": {
+        "A": "Precision",
+        "B": "Accuracy",
+        "C": "Sensitivity",
+        "D": "Specificity"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Which type of study follows a group of people over time to observe the occurrence of an outcome?",
+      "options": {
+        "A": "Cohort study",
+        "B": "Case report",
+        "C": "Cross-sectional study only",
+        "D": "Laboratory experiment only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Which immunoglobulin is usually the first antibody produced during a primary immune response?",
+      "options": {
+        "A": "IgG",
+        "B": "IgM",
+        "C": "IgA",
+        "D": "IgE"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Which immunoglobulin is the most abundant in human serum?",
+      "options": {
+        "A": "IgA",
+        "B": "IgE",
+        "C": "IgG",
+        "D": "IgM"
+      },
+      "correct_answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Which sterilization method is commonly used for heat-stable glassware?",
+      "options": {
+        "A": "Dry heat sterilization",
+        "B": "Membrane filtration",
+        "C": "Refrigeration",
+        "D": "Ultraviolet exposure only"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Which microorganism is commonly used as a biological indicator for dry heat sterilization?",
+      "options": {
+        "A": "Bacillus atrophaeus",
+        "B": "Escherichia coli",
+        "C": "Vibrio cholerae",
+        "D": "Lactobacillus acidophilus"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "What does the term 'lead time' mean in drug procurement?",
+      "options": {
+        "A": "Time between placing an order and receiving the goods",
+        "B": "Time taken to dispense one prescription",
+        "C": "Time required to manufacture a label",
+        "D": "Time between two patient visits"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Which inventory system records stock transactions continuously?",
+      "options": {
+        "A": "Perpetual inventory system",
+        "B": "Annual inventory system only",
+        "C": "Random inventory system",
+        "D": "No-record inventory system"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is the main purpose of buffer stock?",
+      "options": {
+        "A": "To protect against unexpected demand or supply delays",
+        "B": "To increase expired medicines",
+        "C": "To replace stock records",
+        "D": "To avoid procurement planning"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Which storage practice helps prevent contamination of medicines?",
+      "options": {
+        "A": "Keeping medicines clean, dry and protected from pests",
+        "B": "Storing medicines directly on the floor",
+        "C": "Keeping packages open",
+        "D": "Mixing medicines with chemicals"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "What should be done with expired medicines in a pharmacy store?",
+      "options": {
+        "A": "Dispense them at a lower price",
+        "B": "Separate them from usable stock and arrange safe disposal",
+        "C": "Mix them with new stock",
+        "D": "Remove the expiry date"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Which indicator is commonly used to assess the availability of essential medicines in a health facility?",
+      "options": {
+        "A": "Percentage of essential medicines available",
+        "B": "Number of office chairs",
+        "C": "Number of staff holidays",
+        "D": "Size of the hospital building"
+      },
+      "correct_answer": "A"
+    }
+  ]
+}
